@@ -49,7 +49,7 @@ async def download_and_save(session, product_id, operating_system, generation, s
                     return
 
                 # Use a temporary folder for downloading and checking the hash
-                temp_folder = os.path.join(os.environ['TEMP'], 'gog_products_temp', str(product_id))
+                temp_folder = os.path.join(os.environ['RUNNER_TEMP'], 'gog_products_temp', str(product_id))
                 os.makedirs(temp_folder, exist_ok=True)
 
                 temp_filename = os.path.join(temp_folder, f"{product_id}.json")
