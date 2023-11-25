@@ -1,0 +1,84 @@
+{
+  "total_count": 21,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56594046153589107",
+      "product_id": "1801948692",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.0.9 HF #1",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-06-13T05:29:59+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2c/10/2c106f7126276fe1a6554d6d31a73fbd"
+    },
+    {
+      "build_id": "56588187965212516",
+      "product_id": "1801948692",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.0.9",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-06-11T05:01:35+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3f/68/3f68c54149f8ed01c625ca5e0c7a2f47"
+    },
+    {
+      "build_id": "56178841683660532",
+      "product_id": "1801948692",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.0.8 HF #1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-01-21T00:15:07+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/60/4a/604a0de15eff3ff22decb09f739c3f5a"
+    },
+    {
+      "build_id": "56169656246096878",
+      "product_id": "1801948692",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.0.8",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-01-17T20:12:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/66/ea/66ea2b09eb0a7b3a80e0d7ce971cafcb"
+    },
+    {
+      "build_id": "55854971873751981",
+      "product_id": "1801948692",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.0.7 Hotfix #2",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2022-10-01T07:08:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/bc/cb/bccb5add44d344a2efed92260394ab17"
+    }
+  ],
+  "has_private_branches": true
+}

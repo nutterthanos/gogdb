@@ -1,0 +1,79 @@
+{
+  "total_count": 45,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56926826692606797",
+      "product_id": "1316455012",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Jenkins_US_Win_Release_3_29",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-10-06T00:26:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dc/23/dc23e76d794ab4f4ecd3ece36984334d"
+    },
+    {
+      "build_id": "56437160760912239",
+      "product_id": "1316455012",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Jenkins_US_Win_Release_3_23",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-04-20T04:56:17+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8b/4a/8b4a78b14b686aea6606a7275ceaad45"
+    },
+    {
+      "build_id": "56245551098322838",
+      "product_id": "1316455012",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Jenkins_US_Win_Release_3_19",
+      "tags": [
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-02-13T00:54:49+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c5/58/c55827b9f6e2d848969e6903dc462a07"
+    },
+    {
+      "build_id": "56231149098685804",
+      "product_id": "1316455012",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Jenkins_US_Win_Release_3_16",
+      "tags": [
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-02-08T01:21:49+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a0/41/a0417090383a592f3fd6cf78f931c3a2"
+    },
+    {
+      "build_id": "56205701887347436",
+      "product_id": "1316455012",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Jenkins_US_Win_Release_3_15",
+      "tags": [
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-01-30T06:37:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ee/f9/eef97dbf6a42ad0e4e8274741f6dabf6"
+    }
+  ],
+  "has_private_branches": true
+}

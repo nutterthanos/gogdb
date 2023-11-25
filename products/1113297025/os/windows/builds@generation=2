@@ -1,0 +1,82 @@
+{
+  "total_count": 39,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "55277434969697262",
+      "product_id": "1113297025",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v1.1.302 official",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-03-16T02:19:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/22/0f/220f38279f757a0983ee4f0210d1367f"
+    },
+    {
+      "build_id": "55197936460285992",
+      "product_id": "1113297025",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v1.1.296 official",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-02-16T16:48:09+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5c/9e/5c9eaf7ec87b928958e5aaef37751510"
+    },
+    {
+      "build_id": "54870184433708078",
+      "product_id": "1113297025",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v1.1.260-rc official fixed",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-10-26T14:38:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/cd/06/cd06d8baa3a03d1a61d68ec84276a0cd"
+    },
+    {
+      "build_id": "54745393643129321",
+      "product_id": "1113297025",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v1.1.258-rc official",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-09-13T13:54:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/67/60/67600bc42b13a3e471ea984a7f235b8e"
+    },
+    {
+      "build_id": "54595232724152382",
+      "product_id": "1113297025",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v1.0.234-rc official",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-07-23T18:41:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e4/7c/e47c51510bd6c52988f97c59877acc78"
+    }
+  ],
+  "has_private_branches": true
+}

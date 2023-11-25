@@ -1,0 +1,78 @@
+{
+  "total_count": 13,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "52434541530973745",
+      "product_id": "1454930864",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.9",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_0_w_118"
+      ],
+      "public": true,
+      "date_published": "2019-07-09T11:19:21+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/85/6b/856ba019df63c794ff20464fbe06ae49"
+    },
+    {
+      "build_id": "51642957228589926",
+      "product_id": "1454930864",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Stasis Mode update",
+      "tags": [
+        "csb_10_5_0_w_39"
+      ],
+      "public": true,
+      "date_published": "2018-10-09T10:18:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fc/82/fc82025468093f34c20eb60158ed081e"
+    },
+    {
+      "build_id": "51002205028196257",
+      "product_id": "1454930864",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.7 Hotfix",
+      "tags": [
+        "csb_10_3_0_w_2"
+      ],
+      "public": true,
+      "date_published": "2018-03-02T10:01:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/51/10/5110a037d0e36ef31ae2efdae145c693"
+    },
+    {
+      "build_id": "50738904319843973",
+      "product_id": "1454930864",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.4(g)",
+      "tags": [
+        "csb_10_2_1_w_201"
+      ],
+      "public": true,
+      "date_published": "2017-12-01T14:07:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/be/60/be60eaf4eee64a65e40ad4fab9198bda"
+    },
+    {
+      "build_id": "49518439344996683",
+      "product_id": "1454930864",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.4 (gog-3)",
+      "tags": [
+        "csb_1_0_8_w_342"
+      ],
+      "public": true,
+      "date_published": "2016-10-06T14:37:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3f/88/3f88bbb36cdfbef5d4099a39d2301f3b"
+    }
+  ],
+  "has_private_branches": true
+}

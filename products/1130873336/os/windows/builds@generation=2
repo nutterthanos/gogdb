@@ -1,0 +1,87 @@
+{
+  "total_count": 89,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "57061904018732243",
+      "product_id": "1130873336",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2023_11_21a_patch1.5_gog",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-11-21T14:36:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c5/87/c58762fb5bbe8a3b27a1461651b02e57"
+    },
+    {
+      "build_id": "56997502631061059",
+      "product_id": "1130873336",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2023_10_30a_patch1.5_gog",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-30T09:28:07+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/67/95/6795a2f0865b204d209c24e30e493fc9"
+    },
+    {
+      "build_id": "56945548438230653",
+      "product_id": "1130873336",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2023_10_12a_patch1.5_gog",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-12T11:44:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e0/30/e030396b735c256d0aeed1609809cd3f"
+    },
+    {
+      "build_id": "56939940635520902",
+      "product_id": "1130873336",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2023_10_10a_patch1.5_gog",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-10T12:56:47+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8e/a3/8ea393b9c14e3a3ab90e50566e02962b"
+    },
+    {
+      "build_id": "56925491283175465",
+      "product_id": "1130873336",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2023_10_05a_patch1.5_gog",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-05T13:19:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/23/38/23389fc11e476c01f5e4a73edcff6dc6"
+    }
+  ],
+  "has_private_branches": true
+}

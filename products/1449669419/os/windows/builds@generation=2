@@ -1,0 +1,43 @@
+{
+  "total_count": 5,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "49071761695891321",
+      "product_id": "1449669419",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1 (hotfix v2)",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-05T12:48:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/13/ad/13ad5d9605ac890371279720d8e9df15"
+    },
+    {
+      "build_id": "49068606765703069",
+      "product_id": "1449669419",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1 (hotfix)",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-04T10:42:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b7/f0/b7f03ccda782c6229ab93d6f2e5d3714"
+    },
+    {
+      "build_id": "49062677931718204",
+      "product_id": "1449669419",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-02T09:38:26+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a2/73/a2737358769de280cc7a09818aa5421e"
+    }
+  ],
+  "has_private_branches": true
+}

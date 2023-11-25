@@ -1,0 +1,73 @@
+{
+  "total_count": 19,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "50753099107098485",
+      "product_id": "1852379375",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1.00",
+      "tags": [
+        "csb_10_2_1_w_201"
+      ],
+      "public": true,
+      "date_published": "2017-12-06T11:39:44+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6a/46/6a462a389ccb96488207d2d6c7606e4e"
+    },
+    {
+      "build_id": "49554494074084112",
+      "product_id": "1852379375",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1.00(20161019)",
+      "tags": [
+        "csb_1_0_8_w_339"
+      ],
+      "public": true,
+      "date_published": "2016-10-19T01:13:57+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/20/70/2070c7708efff82fb91cf74ad20b825b"
+    },
+    {
+      "build_id": "49453712094166584",
+      "product_id": "1852379375",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.05",
+      "tags": [
+        "1_0_6_w_327"
+      ],
+      "public": true,
+      "date_published": "2016-09-14T08:10:45+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/85/59/85596287c9f36d6013db87f55f139afd"
+    },
+    {
+      "build_id": "49439124301473893",
+      "product_id": "1852379375",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.04",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-09-09T06:06:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c7/70/c77095fe6628a88c946fc481749006f8"
+    },
+    {
+      "build_id": "49427374433473142",
+      "product_id": "1852379375",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.03",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-09-05T07:32:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/17/ed/17eddca3e26046a048fd7317ce7cf323"
+    }
+  ],
+  "has_private_branches": true
+}

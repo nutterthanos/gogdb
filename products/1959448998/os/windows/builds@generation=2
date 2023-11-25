@@ -1,0 +1,22 @@
+{
+  "total_count": 2,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "56988618014407635",
+      "product_id": "1959448998",
+      "os": "windows",
+      "branch": null,
+      "version_name": "NocturnesDemo_2023-10-27",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-27T07:58:21+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d1/a1/d1a1dc41e592df46bc19befb8cc8a975"
+    }
+  ],
+  "has_private_branches": true
+}

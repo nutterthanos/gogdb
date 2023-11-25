@@ -1,0 +1,61 @@
+{
+  "total_count": 11,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "51013968324897095",
+      "product_id": "1461060839",
+      "os": "windows",
+      "branch": null,
+      "version_name": "21-12-2017",
+      "tags": [
+        "csb_10_3_0_w_2"
+      ],
+      "public": true,
+      "date_published": "2018-03-06T11:21:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f6/ad/f6ada3bce3b03c59b65f46d9699a69c7"
+    },
+    {
+      "build_id": "49996882075427349",
+      "product_id": "1461060839",
+      "os": "windows",
+      "branch": null,
+      "version_name": "964-Ansel (A)",
+      "tags": [
+        "csb_1_0_9_w_118"
+      ],
+      "public": true,
+      "date_published": "2017-03-20T15:23:17+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/62/67/62676b5828aef7264c4c7451c6d9a4b9"
+    },
+    {
+      "build_id": "49608721945031057",
+      "product_id": "1461060839",
+      "os": "windows",
+      "branch": null,
+      "version_name": "964-Ansel",
+      "tags": [
+        "csb_1_0_9_w_102"
+      ],
+      "public": true,
+      "date_published": "2016-11-06T18:37:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/af/75/af75e3d5c4ad9a9d3abaf1a39bd8c0bb"
+    },
+    {
+      "build_id": "49068894859526332",
+      "product_id": "1461060839",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.02-1",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-04T13:07:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/31/55/3155fb69dc9a440ecefdcc4ccc4729cd"
+    }
+  ],
+  "has_private_branches": true
+}

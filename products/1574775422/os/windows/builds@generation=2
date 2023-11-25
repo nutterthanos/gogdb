@@ -1,0 +1,86 @@
+{
+  "total_count": 16,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "57070881335185088",
+      "product_id": "1574775422",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Warsim 1.1 (lil' Throne room and exploration content pack, 25 features and 9 bug fixes)",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-11-24T16:56:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8a/fa/8afa7cd248777b84bd5274560d4e8221"
+    },
+    {
+      "build_id": "57027209159649300",
+      "product_id": "1574775422",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Warsim 1.0.9 (Oasis Reworked)",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-11-09T15:25:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5d/c4/5dc4c27ff35fb712ba6121045cbe27c0"
+    },
+    {
+      "build_id": "56959869988322765",
+      "product_id": "1574775422",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Warsim 1.0.8 (THE LANDS BEYOND EXPANDED - Moar to explore)",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-10-17T09:54:28+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3d/98/3d986cfc690a8656441508a1b03f3a51"
+    },
+    {
+      "build_id": "56601077618747927",
+      "product_id": "1574775422",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Warsim 1.0.6",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_o_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-15T15:39:59+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/00/05/0005580b8505c5e021e1e1504085ea74"
+    },
+    {
+      "build_id": "56111215230420448",
+      "product_id": "1574775422",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Warsim 1.0 Full Early Access Release",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2022-12-28T16:25:24+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6a/99/6a996074888bb1773b777adf124cea8e"
+    }
+  ],
+  "has_private_branches": true
+}

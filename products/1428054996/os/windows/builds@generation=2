@@ -1,0 +1,69 @@
+{
+  "total_count": 18,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "50726667868135830",
+      "product_id": "1428054996",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.13.06",
+      "tags": [
+        "csb_10_2_1_w_201"
+      ],
+      "public": true,
+      "date_published": "2017-11-27T08:50:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3c/ad/3cad9559cde59a5e8b43d2e84601483a"
+    },
+    {
+      "build_id": "49370048260262911",
+      "product_id": "1428054996",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.13.06(20160816)",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-08-16T10:09:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fa/93/fa93d691fdc26db26af58e77edb34824"
+    },
+    {
+      "build_id": "49277443263053896",
+      "product_id": "1428054996",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.13.02",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-07-15T11:36:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/85/86/8586e12d2f5b7ee14865906d575368b9"
+    },
+    {
+      "build_id": "49054128261785081",
+      "product_id": "1428054996",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.07.08",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-29T10:50:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2d/94/2d9499f1b77f26ba5f64dbe676f65af0"
+    },
+    {
+      "build_id": "49027951449537477",
+      "product_id": "1428054996",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.07.06",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-20T10:11:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7d/12/7d121299bec756dd68bc59a687344be8"
+    }
+  ],
+  "has_private_branches": true
+}

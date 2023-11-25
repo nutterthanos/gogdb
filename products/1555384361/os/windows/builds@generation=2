@@ -1,0 +1,52 @@
+{
+  "total_count": 4,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "54953752255784768",
+      "product_id": "1555384361",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Demo 2241",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-24T10:40:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2d/f8/2df80783fac785771d068ca15f780cae"
+    },
+    {
+      "build_id": "54633998030233684",
+      "product_id": "1555384361",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Demo V2172e",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-08-06T05:20:20+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b8/b9/b8b94cf9529c15cf746b23f27eadf89d"
+    },
+    {
+      "build_id": "54410565032107451",
+      "product_id": "1555384361",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Demo V2172d",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-21T02:09:59+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/74/96/7496dd9e3d4d303b021023cf4d99c44e"
+    }
+  ],
+  "has_private_branches": true
+}

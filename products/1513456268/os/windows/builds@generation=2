@@ -1,0 +1,82 @@
+{
+  "total_count": 57,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56888451444366332",
+      "product_id": "1513456268",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.14.4.5932-gog-demo-gog-demo",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-09-22T18:50:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9d/ce/9dcef7bc85e667c308017efb567cde2b"
+    },
+    {
+      "build_id": "56884847912192222",
+      "product_id": "1513456268",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.14.3.5931-gog-demo",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-09-21T12:55:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/56/a7/56a75c1266a7c8d8544d5996ce895dee"
+    },
+    {
+      "build_id": "56571985671330160",
+      "product_id": "1513456268",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.12.0.5860-gog-demo",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-06-05T14:52:49+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d4/60/d460eff66b535b41cab950a487e9fbd2"
+    },
+    {
+      "build_id": "56443799215786087",
+      "product_id": "1513456268",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.11.5.5800-gog-demo",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-04-24T14:07:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6b/43/6b43cbd0279336b936457f57655af79e"
+    },
+    {
+      "build_id": "56415985037974517",
+      "product_id": "1513456268",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.11.4.5788-gog-demo",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-04-12T19:27:40+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6f/e8/6fe8c0dda32be3cce56f02d1b1b92814"
+    }
+  ],
+  "has_private_branches": true
+}

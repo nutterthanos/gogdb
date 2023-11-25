@@ -1,0 +1,82 @@
+{
+  "total_count": 28,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "55852340658371618",
+      "product_id": "2143043899",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Vertigo_2022093001_GOGX64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-09-30T09:21:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d2/75/d275c86af32df1983b1de4329c81dea7"
+    },
+    {
+      "build_id": "55163227166581360",
+      "product_id": "2143043899",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Vertigo_2022020401_GOGX64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-02-04T16:38:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/83/f8/83f8220f2adef8e7b83cd6188907c7be"
+    },
+    {
+      "build_id": "55038430573615825",
+      "product_id": "2143043899",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Vertigo_2021122301_GOGX64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-23T15:28:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/74/9c/749ccda2ca1d6484f76cf79291680e27"
+    },
+    {
+      "build_id": "55033032848102281",
+      "product_id": "2143043899",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Vertigo_2021122102_GOGX64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-21T18:51:44+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/46/65/4665966ee2d2c2b71276c59e11b0588b"
+    },
+    {
+      "build_id": "55018034508298065",
+      "product_id": "2143043899",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Vertigo_2021121601_GOGX64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-16T14:40:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b1/cb/b1cbaea2eaa6601e08151321440c5891"
+    }
+  ],
+  "has_private_branches": true
+}

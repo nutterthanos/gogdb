@@ -1,0 +1,147 @@
+{
+  "total_count": 34,
+  "count": 10,
+  "items": [
+    {
+      "build_id": "53689527681958847",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": "Beta",
+      "version_name": "TRUNK_5088_RETAIL_1.24",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2020-09-14T09:18:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/55/85/5585360c98d6338b1f90a3f2aa167afa"
+    },
+    {
+      "build_id": "53246076490858567",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": "Beta",
+      "version_name": "TRUNK_5007_RETAIL_1.18",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-04-14T09:42:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/70/cf/70cf7d18b88608cc6c357e872067d3f2"
+    },
+    {
+      "build_id": "53170212254822954",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": "Beta",
+      "version_name": "TRUNK_4955_RETAIL_1.09",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-03-19T07:24:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ea/9d/ea9dc64f92b982d1c476b6681614e97c"
+    },
+    {
+      "build_id": "53143991905021296",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": "Beta",
+      "version_name": "TRUNK_4916_RETAIL_1.07",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-03-10T05:25:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2e/cd/2ecd9924bf90e67d6de83f53e5f41458"
+    },
+    {
+      "build_id": "53132038623747721",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": "Beta",
+      "version_name": "TRUNK_4894_RETAIL_1.06",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-03-06T01:44:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/29/bf/29bfe6a05d620f094b70227748eeebb3"
+    },
+    {
+      "build_id": "53689527681958847",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": null,
+      "version_name": "TRUNK_5088_RETAIL_1.24",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2020-09-14T09:18:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/55/85/5585360c98d6338b1f90a3f2aa167afa"
+    },
+    {
+      "build_id": "53246076490858567",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": null,
+      "version_name": "TRUNK_5007_RETAIL_1.18",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-04-14T09:42:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/70/cf/70cf7d18b88608cc6c357e872067d3f2"
+    },
+    {
+      "build_id": "53143991905021296",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": null,
+      "version_name": "TRUNK_4916_RETAIL_1.07",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-03-10T05:25:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2e/cd/2ecd9924bf90e67d6de83f53e5f41458"
+    },
+    {
+      "build_id": "53103670613016013",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": null,
+      "version_name": "TRUNK_4835_RETAIL_1.01",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-02-25T06:52:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/04/26/0426b22b470d8e453cf3d9b5ac2d12b6"
+    },
+    {
+      "build_id": "53089208100147625",
+      "product_id": "1975049297",
+      "os": "windows",
+      "branch": null,
+      "version_name": "TRUNK_4828_RETAIL_1.00",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-02-20T06:58:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/83/04/830439b8af67c01e5393cefa31f155ee"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,82 @@
+{
+  "total_count": 39,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "55038347592752906",
+      "product_id": "1465057116",
+      "os": "windows",
+      "branch": null,
+      "version_name": "10256",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-23T14:51:03+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a3/0f/a30f453205a6e628e8d7f26c3c6254aa"
+    },
+    {
+      "build_id": "54370786915151138",
+      "product_id": "1465057116",
+      "os": "windows",
+      "branch": null,
+      "version_name": "9391",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-07T08:41:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ce/ef/ceefd0efe002c74d2398394a160cbacb"
+    },
+    {
+      "build_id": "54362898265216712",
+      "product_id": "1465057116",
+      "os": "windows",
+      "branch": null,
+      "version_name": "9364a",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-04T15:04:09+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/35/a3/35a31f42f52395a885a4ee8a53103cbe"
+    },
+    {
+      "build_id": "54350762192303097",
+      "product_id": "1465057116",
+      "os": "windows",
+      "branch": null,
+      "version_name": "9364",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-04-30T10:48:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c8/a8/c8a80ac81a66ba15fc34a27f8bc1e21a"
+    },
+    {
+      "build_id": "54309998610539493",
+      "product_id": "1465057116",
+      "os": "windows",
+      "branch": null,
+      "version_name": "9292",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-04-16T09:11:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/06/c0/06c0be1b1453a31dcc5fcce2990efa08"
+    }
+  ],
+  "has_private_branches": true
+}

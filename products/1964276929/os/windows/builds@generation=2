@@ -1,0 +1,92 @@
+{
+  "total_count": 129,
+  "count": 6,
+  "items": [
+    {
+      "build_id": "55363005244166350",
+      "product_id": "1964276929",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v2.1.0f4",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-04-14T14:41:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ba/06/ba064cb8edf57901847f662082d20694"
+    },
+    {
+      "build_id": "55355467255969378",
+      "product_id": "1964276929",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v2.1.0f2",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-04-12T00:07:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8f/99/8f99eb6ff9fe35df4d6f43e36d8b764c"
+    },
+    {
+      "build_id": "54751380397067045",
+      "product_id": "1964276929",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.8f1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-09-15T15:46:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ad/9c/ad9cd58e70e90738babf7e4f27269aaa"
+    },
+    {
+      "build_id": "52332895935630964",
+      "product_id": "1964276929",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.7f1",
+      "tags": [
+        "csb_10_6_0_w_118"
+      ],
+      "public": true,
+      "date_published": "2019-06-04T10:03:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dd/05/dd0525513baee1462f7e9cedca8fe7b1"
+    },
+    {
+      "build_id": "52254655008782012",
+      "product_id": "1964276929",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.7",
+      "tags": [
+        "csb_10_6_0_w_115"
+      ],
+      "public": true,
+      "date_published": "2019-05-08T10:20:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b8/cd/b8cdc391346dcfb959c875275d2e06d7"
+    },
+    {
+      "build_id": "52332895935630964",
+      "product_id": "1964276929",
+      "os": "windows",
+      "branch": "Unity Engine 5.4.6 (WFTO 2.0.7f1)",
+      "version_name": "2.0.7f1",
+      "tags": [
+        "csb_10_6_0_w_118"
+      ],
+      "public": true,
+      "date_published": "2019-06-04T10:03:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dd/05/dd0525513baee1462f7e9cedca8fe7b1"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,70 @@
+{
+  "total_count": 14,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "56493630889542667",
+      "product_id": "1078724394",
+      "os": "windows",
+      "branch": null,
+      "version_name": "DFMMM Demo v1.0.1",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-15T09:03:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a1/50/a150efce2cc6ace73dfd9af8ba0eebdb"
+    },
+    {
+      "build_id": "56414948378988004",
+      "product_id": "1078724394",
+      "os": "windows",
+      "branch": null,
+      "version_name": "DFMMM Demo v0.9.9a",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-04-12T11:28:21+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b4/6d/b46d0642972e2a48afe3e2dcbe36315c"
+    },
+    {
+      "build_id": "56389445379660928",
+      "product_id": "1078724394",
+      "os": "windows",
+      "branch": null,
+      "version_name": "DFMMM Demo v0.9.8c",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-04-04T07:28:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/47/74/47749458d6ec051767dd8c7cacdeb0a0"
+    },
+    {
+      "build_id": "56377416185605601",
+      "product_id": "1078724394",
+      "os": "windows",
+      "branch": null,
+      "version_name": "DFMMM Demo v0.9.8b",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-03-30T12:13:57+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dd/c2/ddc20702d219a76b739c932f4892716f"
+    }
+  ],
+  "has_private_branches": true
+}

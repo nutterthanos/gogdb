@@ -1,0 +1,82 @@
+{
+  "total_count": 37,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "52965474456224081",
+      "product_id": "1659642973",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1.7 x64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-01-08T14:43:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fe/9f/fe9f6489e69dd374d122219b7b3a5863"
+    },
+    {
+      "build_id": "52640674451987412",
+      "product_id": "1659642973",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1.6 x64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-09-18T13:52:54+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5f/d3/5fd3ffa9b76fc90d96e1ea47452f25b0"
+    },
+    {
+      "build_id": "52594144867602727",
+      "product_id": "1659642973",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1.4 x64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-09-02T12:41:09+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d2/67/d267c81b595978a3a40bf7eb766ffdb4"
+    },
+    {
+      "build_id": "52541846260259755",
+      "product_id": "1659642973",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.14 x64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-08-15T11:44:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/08/38/08380dcf84bb9f4df9212f6f3687b5ed"
+    },
+    {
+      "build_id": "52536288909657628",
+      "product_id": "1659642973",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.13 x64",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-08-13T13:42:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6c/8a/6c8a32595cf7dc6915934edf19a8bd78"
+    }
+  ],
+  "has_private_branches": true
+}

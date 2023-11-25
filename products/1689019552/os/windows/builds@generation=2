@@ -1,0 +1,22 @@
+{
+  "total_count": 3,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "54197874583012134",
+      "product_id": "1689019552",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.7.0.5 DEMO final",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-03-08T17:28:10+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/56/04/560468c6490d068721cf1ca76fdda093"
+    }
+  ],
+  "has_private_branches": true
+}

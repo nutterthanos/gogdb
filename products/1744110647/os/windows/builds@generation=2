@@ -1,0 +1,82 @@
+{
+  "total_count": 44,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "57028506173408745",
+      "product_id": "1744110647",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2222 - PROD",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-11-10T02:06:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e1/1d/e11dfef8ede9b0ff8208c13152dbeae8"
+    },
+    {
+      "build_id": "56656740253384309",
+      "product_id": "1744110647",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1951 - PROD",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-28T14:59:18+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ab/ab/abab004b744b5b75bb4cc786f38b5689"
+    },
+    {
+      "build_id": "56597207689051820",
+      "product_id": "1744110647",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1922 - PROD",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-14T07:40:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/91/bf/91bf7ad3f6b03a2b62b7ec7d8bf448a5"
+    },
+    {
+      "build_id": "56540966508854326",
+      "product_id": "1744110647",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1878 - PROD",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-26T06:19:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6b/93/6b93e8e1cd77cc5a403e7ae750c37f4b"
+    },
+    {
+      "build_id": "56420312063101641",
+      "product_id": "1744110647",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1848 - PROD",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-05T08:02:28+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7c/77/7c777e3c10eef22c204102aad9760569"
+    }
+  ],
+  "has_private_branches": true
+}

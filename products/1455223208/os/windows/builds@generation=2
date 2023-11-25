@@ -1,0 +1,39 @@
+{
+  "total_count": 3,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "57067663205705241",
+      "product_id": "1455223208",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.07 Allage",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-11-23T14:24:15+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9f/70/9f702887b8c65412870aebf61115f317"
+    },
+    {
+      "build_id": "56883880311914401",
+      "product_id": "1455223208",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.89 Allage",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-09-21T04:52:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ac/12/ac123debd1c452ead7f0d99bed3c0eb8"
+    }
+  ],
+  "has_private_branches": true
+}

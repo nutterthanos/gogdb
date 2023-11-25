@@ -1,0 +1,82 @@
+{
+  "total_count": 15,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "54079441887561482",
+      "product_id": "2020648154",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.2.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-01-26T20:39:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/85/0c/850c76275fc9d9acf9aa3537d1666ff6"
+    },
+    {
+      "build_id": "54026155659432722",
+      "product_id": "2020648154",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.2",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-01-08T15:33:35+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/99/fa/99fa6e1d7af9bf847d5d361fb807d684"
+    },
+    {
+      "build_id": "53454568015582496",
+      "product_id": "2020648154",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.8.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-06-25T16:11:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/98/a2/98a2c312a3b8289eacf17ea635e264c8"
+    },
+    {
+      "build_id": "53347555190208378",
+      "product_id": "2020648154",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.8.0.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-05-19T09:42:36+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1e/c9/1ec9b8f565cddb3930d6f7b619b3ea9a"
+    },
+    {
+      "build_id": "53345304148554331",
+      "product_id": "2020648154",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.8.0",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-05-18T16:06:44+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/af/16/af16290890c27e9d5bbc1153c2423542"
+    }
+  ],
+  "has_private_branches": true
+}

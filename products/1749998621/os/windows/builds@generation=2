@@ -1,0 +1,71 @@
+{
+  "total_count": 14,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "56631076689578373",
+      "product_id": "1749998621",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v5 (EN 1.04, CN 1.01)",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-26T00:01:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/89/ce/89ce17d6e0ad45c57e5ed95cfcd8b8ce"
+    },
+    {
+      "build_id": "56515499880918344",
+      "product_id": "1749998621",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v4 (EN 1.03, CN 1.01)",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-17T03:15:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/27/e6/27e695d0e52dbe6f163f000051c3fa8c"
+    },
+    {
+      "build_id": "56504489168674633",
+      "product_id": "1749998621",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v3 (EN 1.02, CN 1.01)",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-13T08:04:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4b/5c/4b5c3805279b99853658dc75a1282bce"
+    },
+    {
+      "build_id": "56501338110152610",
+      "product_id": "1749998621",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v2 (EN 1.01, CN 1.01)",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-12T06:00:28+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d7/68/d768b97242a12f1163a4fb09e0d068d4"
+    }
+  ],
+  "has_private_branches": true
+}

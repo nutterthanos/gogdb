@@ -1,0 +1,22 @@
+{
+  "total_count": 3,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "53365846919267636",
+      "product_id": "1908018720",
+      "os": "windows",
+      "branch": null,
+      "version_name": "demo_20200525A",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-05-25T17:04:53+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f5/b4/f5b46cc52e379dedb7f8a8dfd4939f16"
+    }
+  ],
+  "has_private_branches": true
+}

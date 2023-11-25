@@ -1,0 +1,77 @@
+{
+  "total_count": 185,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "54894502388560836",
+      "product_id": "1304291300",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Build-12924-Production",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-03T23:55:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/17/6e/176eee635ae1318fb7212af5678b949d"
+    },
+    {
+      "build_id": "54847730914208641",
+      "product_id": "1304291300",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Build-12921-Production",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-10-18T20:43:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/26/a5/26a50cb0259ad8972cf2ebd160a2350c"
+    },
+    {
+      "build_id": "54391979205461313",
+      "product_id": "1304291300",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Build-12839-Production",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-14T15:49:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/63/9b/639b57026a9ba11d4b55792c968ae4cd"
+    },
+    {
+      "build_id": "54267863540648000",
+      "product_id": "1304291300",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Build-12731-Production",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-04-01T20:20:21+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/68/c0/68c05753c95c80ad9433eb059aeb9ca3"
+    },
+    {
+      "build_id": "54265196433876191",
+      "product_id": "1304291300",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Build-12728-Production",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-03-31T22:17:51+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/19/68/1968b3a8590cde629679240b0b9ce174"
+    }
+  ],
+  "has_private_branches": true
+}

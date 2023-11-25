@@ -1,0 +1,82 @@
+{
+  "total_count": 38,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "55727876608624448",
+      "product_id": "1091099749",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.6.4",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_o_6"
+      ],
+      "public": true,
+      "date_published": "2022-08-18T11:00:02+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/33/14/3314deb908e42c06709eb270314f1f73"
+    },
+    {
+      "build_id": "55727542030168445",
+      "product_id": "1091099749",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.6.3",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_o_6"
+      ],
+      "public": true,
+      "date_published": "2022-08-18T08:12:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/80/6e/806eedf19a47692795603d111e659db2"
+    },
+    {
+      "build_id": "55608669408260070",
+      "product_id": "1091099749",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.6.2",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_o_6"
+      ],
+      "public": true,
+      "date_published": "2022-07-08T08:09:55+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/96/83/9683295515bf8190e241f9131a3a9217"
+    },
+    {
+      "build_id": "55542305295033505",
+      "product_id": "1091099749",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.5.1",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_o_5"
+      ],
+      "public": true,
+      "date_published": "2022-06-15T10:43:47+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/97/e6/97e6dc4b64b09db80a4777f0642dd595"
+    },
+    {
+      "build_id": "55498683762116216",
+      "product_id": "1091099749",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.5",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_2_o_2"
+      ],
+      "public": true,
+      "date_published": "2022-05-31T09:43:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2c/61/2c61af25d81209d86da51daf74495847"
+    }
+  ],
+  "has_private_branches": true
+}

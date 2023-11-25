@@ -1,0 +1,71 @@
+{
+  "total_count": 21,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "56902237838303990",
+      "product_id": "1088251490",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.0.3",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-09-27T12:48:55+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/29/51/2951b33ce879d8e4e0502340096c7d1b"
+    },
+    {
+      "build_id": "56879256162416898",
+      "product_id": "1088251490",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.0.2",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-09-27T08:26:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/54/bd/54bde25070bd54630e02b85d305dfe36"
+    },
+    {
+      "build_id": "56876167673776970",
+      "product_id": "1088251490",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.0.1",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-09-18T12:58:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8a/13/8a138d244c59d5e5384808abe4d38dab"
+    },
+    {
+      "build_id": "56858430689189533",
+      "product_id": "1088251490",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.0.0",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-09-12T10:09:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6a/6a/6a6a9fbe218e24948ca252807de8bc8b"
+    }
+  ],
+  "has_private_branches": true
+}

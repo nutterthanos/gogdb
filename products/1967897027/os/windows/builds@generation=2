@@ -1,0 +1,54 @@
+{
+  "total_count": 7,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "56905334814751621",
+      "product_id": "1967897027",
+      "os": "windows",
+      "branch": null,
+      "version_name": "HYPERVIOLENT_v0.8.72.0_EA",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-09-28T14:53:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a9/37/a9376dbb999cd26c441a90612e2c2b7b"
+    },
+    {
+      "build_id": "56397211394069111",
+      "product_id": "1967897027",
+      "os": "windows",
+      "branch": null,
+      "version_name": "HYPERVIOLENT_EA_RELEASE_v2",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-04-06T13:01:45+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/43/04/4304086c5ff92022cf38f1943f446da5"
+    },
+    {
+      "build_id": "56382728193761333",
+      "product_id": "1967897027",
+      "os": "windows",
+      "branch": null,
+      "version_name": "HYPERVIOLENT_v0.8.22.0_EA",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-04-01T08:09:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/69/66/69664de5d4c869687f217301b1d4c37a"
+    }
+  ],
+  "has_private_branches": true
+}

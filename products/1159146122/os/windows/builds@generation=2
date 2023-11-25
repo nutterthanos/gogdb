@@ -1,0 +1,22 @@
+{
+  "total_count": 6,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "55498614074812596",
+      "product_id": "1159146122",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0a",
+      "tags": [
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-05-31T09:42:53+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3f/6d/3f6d836942b07bc1aa6481bca70a2de3"
+    }
+  ],
+  "has_private_branches": true
+}

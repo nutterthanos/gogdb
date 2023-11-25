@@ -1,0 +1,142 @@
+{
+  "total_count": 34,
+  "count": 9,
+  "items": [
+    {
+      "build_id": "57044756680982937",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": "Ghostrunner 2 Brutal Edition",
+      "version_name": "39907_14",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-11-15T17:29:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a0/60/a0604c147cebab7904e638b706ad2c8d"
+    },
+    {
+      "build_id": "57018774609673951",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": "Ghostrunner 2 Brutal Edition",
+      "version_name": "39804_11",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-11-06T18:28:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9f/60/9f60ae4253078408f3e46b19c6ca44c7"
+    },
+    {
+      "build_id": "56990161173802648",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": "Ghostrunner 2 Brutal Edition",
+      "version_name": "39734_10",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-10-27T21:24:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a9/7a/a97a02860a8a6eda64bac76968552690"
+    },
+    {
+      "build_id": "56986507001217176",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": "Ghostrunner 2 Brutal Edition",
+      "version_name": "39712_9",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-10-26T15:07:51+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/39/9f/399fd16f96165a77fbb50614fc79ce09"
+    },
+    {
+      "build_id": "56981045117611414",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": "Ghostrunner 2 Brutal Edition",
+      "version_name": "39669_8",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-10-24T19:33:52+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9e/c3/9ec3683991be1cc6b5c892adf31cef4c"
+    },
+    {
+      "build_id": "57044756680982937",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": null,
+      "version_name": "39907_14",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-11-15T17:29:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a0/60/a0604c147cebab7904e638b706ad2c8d"
+    },
+    {
+      "build_id": "57018774609673951",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": null,
+      "version_name": "39804_11",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-11-06T18:28:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9f/60/9f60ae4253078408f3e46b19c6ca44c7"
+    },
+    {
+      "build_id": "56990161173802648",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": null,
+      "version_name": "39734_10",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-10-27T21:24:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a9/7a/a97a02860a8a6eda64bac76968552690"
+    },
+    {
+      "build_id": "56986507001217176",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": null,
+      "version_name": "39712_9",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-10-26T15:07:51+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/39/9f/399fd16f96165a77fbb50614fc79ce09"
+    }
+  ],
+  "has_private_branches": true
+}

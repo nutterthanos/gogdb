@@ -1,0 +1,79 @@
+{
+  "total_count": 18,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "52742152551416006",
+      "product_id": "1689871374",
+      "os": "windows",
+      "branch": null,
+      "version_name": "W.I.M.P (gog-10)",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-10-23T14:10:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e8/17/e817e1296811f4a2f4320e70d18f205b"
+    },
+    {
+      "build_id": "52695882071949215",
+      "product_id": "1689871374",
+      "os": "windows",
+      "branch": null,
+      "version_name": "W.I.M.P (gog-9)",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-10-07T14:59:18+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/85/2b/852b4307edc7807d19accc0a59b5d2cd"
+    },
+    {
+      "build_id": "50364118542479751",
+      "product_id": "1689871374",
+      "os": "windows",
+      "branch": null,
+      "version_name": "W.I.M.P. (gog-8)",
+      "tags": [
+        "csb_10_1_0_w_101"
+      ],
+      "public": true,
+      "date_published": "2017-07-25T07:30:03+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/90/d9/90d9958eb26245b9cbeedceaad9abd89"
+    },
+    {
+      "build_id": "49938770687470725",
+      "product_id": "1689871374",
+      "os": "windows",
+      "branch": null,
+      "version_name": "W.I.M.P. (gog-7)",
+      "tags": [
+        "csb_1_0_9_w_118"
+      ],
+      "public": true,
+      "date_published": "2017-02-28T14:16:40+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5f/38/5f38c2ef237d4b18ea7edfae64628bf4"
+    },
+    {
+      "build_id": "49764261969739169",
+      "product_id": "1689871374",
+      "os": "windows",
+      "branch": null,
+      "version_name": "W.I.M.P. (gog-6)",
+      "tags": [
+        "csb_1_0_9_w_109"
+      ],
+      "public": true,
+      "date_published": "2016-12-30T09:41:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c1/af/c1af57eb9b3305816efe5d376c0f41be"
+    }
+  ],
+  "has_private_branches": true
+}

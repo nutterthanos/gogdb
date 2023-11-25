@@ -1,0 +1,64 @@
+{
+  "total_count": 12,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "54189823343196002",
+      "product_id": "2116300560",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-03-05T22:25:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a0/b5/a0b5ddf351a4e8e52b856038d7b3852d"
+    },
+    {
+      "build_id": "54164779547853822",
+      "product_id": "2116300560",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-02-25T07:00:44+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/17/5a/175a1ad1d291b0bb5c8484ca9bf81dc2"
+    },
+    {
+      "build_id": "53401431327192649",
+      "product_id": "2116300560",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Alpha Demo v1.22",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-06-06T23:39:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/03/ce/03cec5a8701ec02b8cae31e834499561"
+    },
+    {
+      "build_id": "49265467757351932",
+      "product_id": "2116300560",
+      "os": "windows",
+      "branch": null,
+      "version_name": "gog-4",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-07-11T08:26:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d3/da/d3da379abaaaf1b12895bd12576b74be"
+    }
+  ],
+  "has_private_branches": true
+}

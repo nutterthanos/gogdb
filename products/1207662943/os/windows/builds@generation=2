@@ -1,0 +1,74 @@
+{
+  "total_count": 7,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "50210924107452630",
+      "product_id": "1207662943",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.4.800398",
+      "tags": [
+        "csb_10_1_0_w_80"
+      ],
+      "public": true,
+      "date_published": "2017-06-02T11:18:28+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ac/d5/acd57255d8669440aea7596e542209ff"
+    },
+    {
+      "build_id": "49492623792447499",
+      "product_id": "1207662943",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.4 hotfix",
+      "tags": [
+        "csb_1_0_8_w_341"
+      ],
+      "public": true,
+      "date_published": "2016-09-27T17:04:59+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2b/96/2b9680eb54b38d8bddf73217881b717e"
+    },
+    {
+      "build_id": "48880936386387019",
+      "product_id": "1207662943",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.4",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-02-29T17:03:44+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1207662943/windows/63129143/repository.json",
+      "legacy_build_id": 63129143
+    },
+    {
+      "build_id": "48221923159176282",
+      "product_id": "1207662943",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.3",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-07-17T09:28:20+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1207662943/windows/43431172/repository.json",
+      "legacy_build_id": 43431172
+    },
+    {
+      "build_id": "11221",
+      "product_id": "1207662943",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-05-13T11:25:02+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1207662943/windows/37887902/repository.json",
+      "legacy_build_id": 37887902
+    }
+  ],
+  "has_private_branches": true
+}

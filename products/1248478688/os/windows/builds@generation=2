@@ -1,0 +1,82 @@
+{
+  "total_count": 20,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "54385195769158568",
+      "product_id": "1248478688",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_v1.5-1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-13T01:48:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0f/44/0f4478596a38df5f657fd9e0bdbb6e0e"
+    },
+    {
+      "build_id": "54169903985720341",
+      "product_id": "1248478688",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_v1.5",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-02-27T06:09:01+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d0/80/d080ddb4ec2db751938afc7f67bc38b0"
+    },
+    {
+      "build_id": "53688705559559202",
+      "product_id": "1248478688",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_v1.4",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2020-09-14T02:46:36+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/71/b0/71b08fa3c66936817cfd10a6e559fd40"
+    },
+    {
+      "build_id": "53207768614936159",
+      "product_id": "1248478688",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_v1.3",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-04-01T04:26:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/68/6d/686dee3245d33b9fb4cc696a50964c2e"
+    },
+    {
+      "build_id": "53177617820329741",
+      "product_id": "1248478688",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_v1.2",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-03-21T18:50:17+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ac/f4/acf42487d79c3e08324310fea8369f51"
+    }
+  ],
+  "has_private_branches": true
+}

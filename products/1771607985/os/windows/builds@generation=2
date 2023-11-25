@@ -1,0 +1,147 @@
+{
+  "total_count": 387,
+  "count": 10,
+  "items": [
+    {
+      "build_id": "56191239981783239",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2022.1 Patch 21",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-01-25T20:35:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1b/89/1b8997da78723b68b680e6d524b5d140"
+    },
+    {
+      "build_id": "56150873045013467",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2022.1 Patch 20",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-01-11T15:05:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/81/24/81242ab82b3f837e4c292cc10bf379d3"
+    },
+    {
+      "build_id": "56073009684827767",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2022.1 Patch 19",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-23T07:56:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c5/75/c575e986c9953a387416fff1e630df39"
+    },
+    {
+      "build_id": "56059335479126718",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2022.1 Patch 18",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-23T07:56:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b0/e4/b0e4c88397cd605209bf3d6002155cfc"
+    },
+    {
+      "build_id": "56027624772676306",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2022.1 Patch 17",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-23T07:56:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/26/5a/265ab544058c9659733302582d788418"
+    },
+    {
+      "build_id": "56191239981783239",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": "Unstable",
+      "version_name": "2022.1 Patch 21",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-01-25T20:35:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1b/89/1b8997da78723b68b680e6d524b5d140"
+    },
+    {
+      "build_id": "56150873045013467",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": "Unstable",
+      "version_name": "2022.1 Patch 20",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-01-11T15:05:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/81/24/81242ab82b3f837e4c292cc10bf379d3"
+    },
+    {
+      "build_id": "56073009684827767",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": "Unstable",
+      "version_name": "2022.1 Patch 19",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-23T07:56:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c5/75/c575e986c9953a387416fff1e630df39"
+    },
+    {
+      "build_id": "56059335479126718",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": "Unstable",
+      "version_name": "2022.1 Patch 18",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-23T07:56:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b0/e4/b0e4c88397cd605209bf3d6002155cfc"
+    },
+    {
+      "build_id": "56027624772676306",
+      "product_id": "1771607985",
+      "os": "windows",
+      "branch": "Unstable",
+      "version_name": "2022.1 Patch 17",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-23T07:56:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/26/5a/265ab544058c9659733302582d788418"
+    }
+  ],
+  "has_private_branches": true
+}

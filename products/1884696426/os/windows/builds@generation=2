@@ -1,0 +1,82 @@
+{
+  "total_count": 91,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "55986438369719305",
+      "product_id": "1884696426",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.10841a",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2022-11-15T15:27:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ba/a2/baa21e7412fe78a0c404fd6317ac42a5"
+    },
+    {
+      "build_id": "55924606330871409",
+      "product_id": "1884696426",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.10552B",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-10-25T08:42:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/98/2f/982f1001b5b79f24f8c651f091aa065f"
+    },
+    {
+      "build_id": "55824168518358206",
+      "product_id": "1884696426",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.9840C",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-09-20T16:31:02+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4a/b9/4ab9308483144d2fb5e91087b169e516"
+    },
+    {
+      "build_id": "55772756183175581",
+      "product_id": "1884696426",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.9617c",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-09-02T23:00:01+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4e/f1/4ef1ebea8cea1e23fca9434620ecf64a"
+    },
+    {
+      "build_id": "55437862196888221",
+      "product_id": "1884696426",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.6934 CU1 hotfix2",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_2_w_2"
+      ],
+      "public": true,
+      "date_published": "2022-05-10T10:27:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9e/c0/9ec06fee55076ea73caf6db80c0d7651"
+    }
+  ],
+  "has_private_branches": true
+}

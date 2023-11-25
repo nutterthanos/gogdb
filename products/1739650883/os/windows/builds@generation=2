@@ -1,0 +1,63 @@
+{
+  "total_count": 8,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "51567282099773873",
+      "product_id": "1739650883",
+      "os": "windows",
+      "branch": null,
+      "version_name": "14725.624",
+      "tags": [
+        "csb_10_5_0_w_28"
+      ],
+      "public": true,
+      "date_published": "2018-09-13T07:48:03+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7b/eb/7bebd1062e9a73bd3a0f01595520aac7"
+    },
+    {
+      "build_id": "51507403999902960",
+      "product_id": "1739650883",
+      "os": "windows",
+      "branch": null,
+      "version_name": "14660",
+      "tags": [
+        "csb_10_5_0_w_16"
+      ],
+      "public": true,
+      "date_published": "2018-08-23T16:11:21+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d2/6c/d26cd8135e836df0361322bb3aefb234"
+    },
+    {
+      "build_id": "51286094651205227",
+      "product_id": "1739650883",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Patch 2 (Revision 135618)",
+      "tags": [
+        "csb_10_4_0_w_23"
+      ],
+      "public": true,
+      "date_published": "2018-06-08T08:01:36+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1f/7a/1f7acdf1c1e9f334730fede8edcacef3"
+    },
+    {
+      "build_id": "50698019147645337",
+      "product_id": "1739650883",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0",
+      "tags": [
+        "csb_10_2_1_w_201"
+      ],
+      "public": true,
+      "date_published": "2017-11-17T11:45:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0b/64/0b64c55439df4bc9f359a371cbb10b69"
+    }
+  ],
+  "has_private_branches": true
+}

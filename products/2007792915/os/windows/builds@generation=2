@@ -1,0 +1,87 @@
+{
+  "total_count": 70,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56745678258745339",
+      "product_id": "2007792915",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.9-DSP",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-08-04T13:56:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/80/10/801081147217aed50867a5fb63d2a927"
+    },
+    {
+      "build_id": "56618016303443925",
+      "product_id": "2007792915",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.8-DSP",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-21T12:09:36+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/92/9e/929e51977d7e5f8e014f85938dce6993"
+    },
+    {
+      "build_id": "56542148667744767",
+      "product_id": "2007792915",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.7-DSP",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-26T08:10:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ac/c6/acc68e0028d7718ad29c20637355f6cb"
+    },
+    {
+      "build_id": "56501663587224934",
+      "product_id": "2007792915",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.6-DSP",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2023-05-12T09:05:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e4/c5/e4c5e54f52d211f13778da508e4f7843"
+    },
+    {
+      "build_id": "56475752072970312",
+      "product_id": "2007792915",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.9.5-DSP",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2023-05-03T10:25:40+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c0/ec/c0ec37b8c07cb846e4e1c3ec7fd101a6"
+    }
+  ],
+  "has_private_branches": true
+}

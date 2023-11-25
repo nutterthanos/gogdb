@@ -1,0 +1,83 @@
+{
+  "total_count": 59,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56612601567338590",
+      "product_id": "1509149396",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v.2.6.3 f7 Windows",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-19T15:04:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c7/19/c71916ff99eebf04fcb6c337bea27985"
+    },
+    {
+      "build_id": "55742350202652359",
+      "product_id": "1509149396",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v.2.6.2f Windows Act2 hotfix",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-08-23T10:45:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/54/b7/54b7d340a6dca4d25151b543a8a939f2"
+    },
+    {
+      "build_id": "55568304781969278",
+      "product_id": "1509149396",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v.2.6.1 Windows",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-06-24T10:01:07+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/59/d4/59d4b6c2cbc4facf70403b041b02beb8"
+    },
+    {
+      "build_id": "55224192076606610",
+      "product_id": "1509149396",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v.2.6.0.1 Windows",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-02-25T17:13:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dd/99/dd99e49037d38b5814573e8b8f11e6b7"
+    },
+    {
+      "build_id": "55119780134411320",
+      "product_id": "1509149396",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v.2.5.9 Windows",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-01-20T16:51:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3e/37/3e3759bd6a067ac07677d64a139b1595"
+    }
+  ],
+  "has_private_branches": true
+}

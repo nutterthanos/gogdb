@@ -1,0 +1,23 @@
+{
+  "total_count": 3,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "57031693112545396",
+      "product_id": "1916795609",
+      "os": "windows",
+      "branch": null,
+      "version_name": "14-RELEASE CANDIDATE - RIC",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_o_2"
+      ],
+      "public": true,
+      "date_published": "2023-11-11T04:36:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/12/af/12af79d8e0d09ee35d8c05de75908325"
+    }
+  ],
+  "has_private_branches": true
+}

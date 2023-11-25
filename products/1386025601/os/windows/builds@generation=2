@@ -1,0 +1,35 @@
+{
+  "total_count": 5,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "54450754296690942",
+      "product_id": "1386025601",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CL12558.1414.Shipping",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-06-03T22:49:34+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7f/cc/7fcca8cb1ea9f2f686a66b13386d771c"
+    },
+    {
+      "build_id": "54162897585387054",
+      "product_id": "1386025601",
+      "os": "windows",
+      "branch": null,
+      "version_name": "12490.1383CL.Shipping",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-02-24T15:38:49+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c6/39/c63962c1d9559274a7ccf4750504a1a7"
+    }
+  ],
+  "has_private_branches": true
+}

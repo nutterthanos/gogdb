@@ -1,0 +1,82 @@
+{
+  "total_count": 78,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56956931384592674",
+      "product_id": "1255378890",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_GOG_Shipping_R111230_J228_Cert_1_5_DistributionGOG_GOG",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-10-16T09:43:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d8/b0/d8b0d15be2dc61aff65ea643789d1f74"
+    },
+    {
+      "build_id": "56725235243912119",
+      "product_id": "1255378890",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_GOG_Shipping_R101626_J125_Cert_1_3_DistributionGOG_GOG",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-28T11:38:07+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d5/eb/d5eb77a53838b8c89be6c2a43f10381d"
+    },
+    {
+      "build_id": "56623621630145718",
+      "product_id": "1255378890",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_Shipping_R96658_GOG_Cert_1_1",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-23T10:19:55+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/27/c9/27c95fb47a03c93f9c85cd3aa498db56"
+    },
+    {
+      "build_id": "56603228944473054",
+      "product_id": "1255378890",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_Shipping_R95581_GOG_Cert_1_1",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-16T09:30:35+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b3/08/b30897b4d87b1274ea7e0db314c35110"
+    },
+    {
+      "build_id": "56597444875749290",
+      "product_id": "1255378890",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_Shipping_R95268_GOG_Cert_1_1",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-14T09:45:24+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/bd/5e/bd5e7526c9431c40a6c5c427dcc2ebd2"
+    }
+  ],
+  "has_private_branches": true
+}

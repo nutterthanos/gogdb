@@ -1,0 +1,149 @@
+{
+  "total_count": 208,
+  "count": 10,
+  "items": [
+    {
+      "build_id": "56712579973018443",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1193",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-07-24T02:50:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7e/ca/7eca51793e0baa4477db679baab1cb86"
+    },
+    {
+      "build_id": "55613494498776183",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1177",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-07-10T00:06:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/20/77/20779fd934b3bec6257d7bd166d16e3e"
+    },
+    {
+      "build_id": "55479605939566676",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1171",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-05-24T19:44:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/21/7a/217a23a30adbf7f2160b759e86eb02bc"
+    },
+    {
+      "build_id": "55019378989538610",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1158",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-17T01:47:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a3/2f/a32f4044eafe5d4f51e13b4c200484b5"
+    },
+    {
+      "build_id": "54450502177004853",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1133f13",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-06-03T20:22:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/78/d1/78d12218baf245444914a758ef15404e"
+    },
+    {
+      "build_id": "56712579973018443",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": "Public Test Tavern - Unstable",
+      "version_name": "1193",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-07-24T02:50:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7e/ca/7eca51793e0baa4477db679baab1cb86"
+    },
+    {
+      "build_id": "55613494498776183",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": "Public Test Tavern - Unstable",
+      "version_name": "1177",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-07-10T00:06:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/20/77/20779fd934b3bec6257d7bd166d16e3e"
+    },
+    {
+      "build_id": "55479605939566676",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": "Public Test Tavern - Unstable",
+      "version_name": "1171",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-05-24T19:44:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/21/7a/217a23a30adbf7f2160b759e86eb02bc"
+    },
+    {
+      "build_id": "55019378989538610",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": "Public Test Tavern - Unstable",
+      "version_name": "1158",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-17T01:47:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a3/2f/a32f4044eafe5d4f51e13b4c200484b5"
+    },
+    {
+      "build_id": "54450502177004853",
+      "product_id": "1567381308",
+      "os": "windows",
+      "branch": "Public Test Tavern - Unstable",
+      "version_name": "1133f13",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-06-03T20:22:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/78/d1/78d12218baf245444914a758ef15404e"
+    }
+  ],
+  "has_private_branches": true
+}

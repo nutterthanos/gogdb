@@ -1,0 +1,78 @@
+{
+  "total_count": 93,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56694981801152623",
+      "product_id": "1434554947",
+      "os": "windows",
+      "branch": null,
+      "version_name": "202307181201 (release-53)",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_o_158"
+      ],
+      "public": true,
+      "date_published": "2023-07-21T02:42:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/67/bf/67bf17733d99d2538982db3a3e96b324"
+    },
+    {
+      "build_id": "55990356147690626",
+      "product_id": "1434554947",
+      "os": "windows",
+      "branch": null,
+      "version_name": "202211171226 (release-52)",
+      "tags": [
+        "csb_10_6_1_o_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-08T20:39:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/40/c2/40c234801a8ce89243ec22d16ca34221"
+    },
+    {
+      "build_id": "55738815354748045",
+      "product_id": "1434554947",
+      "os": "windows",
+      "branch": null,
+      "version_name": "202208221720 (MidYearUpdate-GoG-RC11)",
+      "tags": [
+        "csb_10_6_1_o_158"
+      ],
+      "public": true,
+      "date_published": "2022-08-24T21:31:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/cb/53/cb533ac10f73506acb84badc4ef7fe3f"
+    },
+    {
+      "build_id": "55149493124200999",
+      "product_id": "1434554947",
+      "os": "windows",
+      "branch": null,
+      "version_name": "202201311127 (release-50a)",
+      "tags": [
+        "csb_10_6_1_o_147"
+      ],
+      "public": true,
+      "date_published": "2022-02-04T03:11:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7c/5c/7c5c2ea9eef2131f9c97f45fab671f99"
+    },
+    {
+      "build_id": "55100876539227002",
+      "product_id": "1434554947",
+      "os": "windows",
+      "branch": null,
+      "version_name": "202201141707 (release-50)",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2022-01-16T22:28:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c3/6d/c36dc61de7ca97ec61905d39c60d3c5d"
+    }
+  ],
+  "has_private_branches": true
+}

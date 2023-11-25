@@ -1,0 +1,72 @@
+{
+  "total_count": 8,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "50165633614356250",
+      "product_id": "1427876902",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.2a",
+      "tags": [
+        "csb_10_0_0_w_34"
+      ],
+      "public": true,
+      "date_published": "2017-05-18T10:08:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dc/cd/dccd339319e30e39c4806c148087eae9"
+    },
+    {
+      "build_id": "49698079691976336",
+      "product_id": "1427876902",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.2",
+      "tags": [
+        "csb_1_0_9_w_106"
+      ],
+      "public": true,
+      "date_published": "2016-12-07T13:44:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9c/87/9c8761216c2b907a9fe8e9b7a060ee09"
+    },
+    {
+      "build_id": "49094623704973723",
+      "product_id": "1427876902",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.1",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-13T10:08:36+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/58/f5/58f5a66ac9d95f15e5457b230076b408"
+    },
+    {
+      "build_id": "49045882208358058",
+      "product_id": "1427876902",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.0.0",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-26T14:39:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4b/f0/4bf0bcbd6e3a8a2235333d33c67e20d7"
+    },
+    {
+      "build_id": "16121",
+      "product_id": "1427876902",
+      "os": "windows",
+      "branch": null,
+      "version_name": "",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-04-10T14:45:36+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1427876902/windows/35048736/repository.json",
+      "legacy_build_id": 35048736
+    }
+  ],
+  "has_private_branches": true
+}

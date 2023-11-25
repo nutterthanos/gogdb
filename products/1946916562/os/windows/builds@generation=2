@@ -1,0 +1,22 @@
+{
+  "total_count": 1,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "56951561408866319",
+      "product_id": "1946916562",
+      "os": "windows",
+      "branch": null,
+      "version_name": "dno_0.9.98_r",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-10-14T13:18:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/65/eb/65eb33929fac8a227bc6ccd4c30da42f"
+    }
+  ],
+  "has_private_branches": false
+}

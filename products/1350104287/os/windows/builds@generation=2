@@ -1,0 +1,87 @@
+{
+  "total_count": 64,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56986168556758873",
+      "product_id": "1350104287",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.24h",
+      "tags": [
+        "receiver_v2",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-26T12:01:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a8/65/a86532e2e3a3ab893006d3082220b8ef"
+    },
+    {
+      "build_id": "56927921579162961",
+      "product_id": "1350104287",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.24g",
+      "tags": [
+        "receiver_v2",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-06T09:31:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2f/44/2f44a0e8108b8a1b9c5a7f7d5ea4478e"
+    },
+    {
+      "build_id": "56843806325581015",
+      "product_id": "1350104287",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.24e",
+      "tags": [
+        "receiver_v2",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-09-07T09:23:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d1/b6/d1b6f6f60c669d7cbcf5bd3f9e249a86"
+    },
+    {
+      "build_id": "56783575339492251",
+      "product_id": "1350104287",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.24d",
+      "tags": [
+        "receiver_v2",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-08-17T14:32:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f1/81/f18100ad57ae0983863b419ad6f2f6ab"
+    },
+    {
+      "build_id": "56763098760508431",
+      "product_id": "1350104287",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.24c",
+      "tags": [
+        "receiver_v2",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-08-10T13:09:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dd/bc/ddbc706915d6734a015e2b2060b78e22"
+    }
+  ],
+  "has_private_branches": true
+}

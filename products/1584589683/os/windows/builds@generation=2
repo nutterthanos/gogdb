@@ -1,0 +1,82 @@
+{
+  "total_count": 33,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "55379813494473164",
+      "product_id": "1584589683",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Tasomachi_20220419 gog",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_2_w_2"
+      ],
+      "public": true,
+      "date_published": "2022-04-20T09:58:10+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a6/85/a6853a97dda4bcc8f9cb69c53a08eda6"
+    },
+    {
+      "build_id": "54449148765005940",
+      "product_id": "1584589683",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Tasomachi_20210602 gog",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-06-03T09:26:40+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0c/da/0cdaaa415ca3d1fdef5387df8af7048e"
+    },
+    {
+      "build_id": "54390365456419774",
+      "product_id": "1584589683",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Tasomachi_20210514 gog",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-14T02:28:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0a/4b/0a4ba57fbff04cb48155d9ceaac559ea"
+    },
+    {
+      "build_id": "54370471009482076",
+      "product_id": "1584589683",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Tasomachi_20210502 st",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-07T06:08:53+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/82/75/82758d5d77ef84245bd2a5b65225d331"
+    },
+    {
+      "build_id": "54329957641355494",
+      "product_id": "1584589683",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Tasomachi_20210422 st",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-04-23T07:43:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b5/66/b566e6ac5a69641c97a5b5602aeb243d"
+    }
+  ],
+  "has_private_branches": true
+}

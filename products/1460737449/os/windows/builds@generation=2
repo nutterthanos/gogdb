@@ -1,0 +1,19 @@
+{
+  "total_count": 3,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "49028812006539314",
+      "product_id": "1460737449",
+      "os": "windows",
+      "branch": null,
+      "version_name": "gog-2",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-20T17:18:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/88/04/8804100350d7254d2355cd47c844346a"
+    }
+  ],
+  "has_private_branches": true
+}

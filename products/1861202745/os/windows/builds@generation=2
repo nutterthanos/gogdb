@@ -1,0 +1,35 @@
+{
+  "total_count": 4,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "51646297904966459",
+      "product_id": "1861202745",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Speedrun Update",
+      "tags": [
+        "csb_10_5_1_w_55"
+      ],
+      "public": true,
+      "date_published": "2018-10-10T13:55:47+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fb/e1/fbe1de496062fcd6284ba2ef67ae5cca"
+    },
+    {
+      "build_id": "51094729764231092",
+      "product_id": "1861202745",
+      "os": "windows",
+      "branch": null,
+      "version_name": "gog-1",
+      "tags": [
+        "csb_10_3_1_w_23"
+      ],
+      "public": true,
+      "date_published": "2018-04-03T07:48:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/91/74/917446bebdba154602d038f40b16fc28"
+    }
+  ],
+  "has_private_branches": true
+}

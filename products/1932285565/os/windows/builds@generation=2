@@ -1,0 +1,82 @@
+{
+  "total_count": 37,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "53450898635913549",
+      "product_id": "1932285565",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Ship Jun23",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-06-24T01:16:02+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/44/6a/446ae1b9f4e76f299bdf0329048418c2"
+    },
+    {
+      "build_id": "53419060648332050",
+      "product_id": "1932285565",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Ship Jun12 v2",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-06-13T01:35:15+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7b/7f/7b7f07396b76d10e61fd71ca3af8af52"
+    },
+    {
+      "build_id": "53398570343002138",
+      "product_id": "1932285565",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Ship 2020-06-05",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-06-05T23:57:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/79/35/7935bb553a5e7b80ad5c96229982748c"
+    },
+    {
+      "build_id": "53358153270995266",
+      "product_id": "1932285565",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Ship 2020-05-22",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-05-23T01:23:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7f/9c/7f9c0b7858f472d5866d479395e48ae0"
+    },
+    {
+      "build_id": "53340468465945404",
+      "product_id": "1932285565",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Ship 2020-05-16",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-05-16T23:02:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/17/ac/17ac66408bb65d3df3bf034f8da45d0e"
+    }
+  ],
+  "has_private_branches": true
+}

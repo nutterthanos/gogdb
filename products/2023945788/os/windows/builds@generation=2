@@ -1,0 +1,83 @@
+{
+  "total_count": 18,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56799825486761855",
+      "product_id": "2023945788",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Build 2617",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-08-23T05:15:55+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fc/07/fc075214b3aa2b351c0fe6803cf15c26"
+    },
+    {
+      "build_id": "56006045851661823",
+      "product_id": "2023945788",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Build 2425",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-11-22T10:13:03+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1c/59/1c599d43c2fa6e595950da02fc5f7878"
+    },
+    {
+      "build_id": "54953536764313990",
+      "product_id": "2023945788",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Build 2241b",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-24T10:19:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/52/dd/52dd81200a8d7a5b54c43b11d8da9d11"
+    },
+    {
+      "build_id": "54634222681714984",
+      "product_id": "2023945788",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Build 2172e",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-08-06T05:14:09+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ea/13/ea131faabac30929b6529042aba45f2d"
+    },
+    {
+      "build_id": "54405344912397185",
+      "product_id": "2023945788",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Build 2172c",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-19T06:43:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2a/3f/2a3f6f7eb97931534c16f7aae0c12f04"
+    }
+  ],
+  "has_private_branches": true
+}

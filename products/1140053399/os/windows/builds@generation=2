@@ -1,0 +1,22 @@
+{
+  "total_count": 34,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "55536922383033268",
+      "product_id": "1140053399",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.2.46637 DLC",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-06-13T14:25:51+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/14/30/1430328dbcf94d1b64d048e5fe262d40"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,62 @@
+{
+  "total_count": 27,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "51132352424346868",
+      "product_id": "1422357892",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2018-04-13",
+      "tags": [
+        "csb_10_3_1_w_1"
+      ],
+      "public": true,
+      "date_published": "2018-04-16T07:29:09+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e3/bd/e3bdee63ecaa66f0be3c803d4f6bb3b0"
+    },
+    {
+      "build_id": "51018905993584654",
+      "product_id": "1422357892",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2017-11-01",
+      "tags": [
+        "csb_10_3_0_w_2"
+      ],
+      "public": true,
+      "date_published": "2018-03-08T04:23:26+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0a/df/0adf787a245c2a545562ae2ddfc7d800"
+    },
+    {
+      "build_id": "50837751046830850",
+      "product_id": "1422357892",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2018-01-04",
+      "tags": [
+        "csb_10_2_1_w_201"
+      ],
+      "public": true,
+      "date_published": "2018-01-04T16:28:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/85/29/85299e534e75d6dcde435cb49bbd4858"
+    },
+    {
+      "build_id": "15311",
+      "product_id": "1422357892",
+      "os": "windows",
+      "branch": null,
+      "version_name": "",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-02-18T13:45:56+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1422357892/windows/30638756/repository.json",
+      "legacy_build_id": 30638756
+    }
+  ],
+  "has_private_branches": true
+}

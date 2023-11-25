@@ -1,0 +1,82 @@
+{
+  "total_count": 18,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "54988593020834682",
+      "product_id": "1667167658",
+      "os": "windows",
+      "branch": null,
+      "version_name": "EA 0.8.1.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-06T11:56:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b6/e7/b6e757d26e7b7b4626244899a5b40a23"
+    },
+    {
+      "build_id": "54816762391278555",
+      "product_id": "1667167658",
+      "os": "windows",
+      "branch": null,
+      "version_name": "EA 0.8.0.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-10-08T07:25:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d5/b9/d5b9fbcb7c7eee3bcf3d0223f75eef64"
+    },
+    {
+      "build_id": "54475004600034851",
+      "product_id": "1667167658",
+      "os": "windows",
+      "branch": null,
+      "version_name": "EA 0.7.1.1a",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-06-12T07:41:02+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a3/36/a33616d987f99c7202c9e5647a2a27bc"
+    },
+    {
+      "build_id": "54461368740938420",
+      "product_id": "1667167658",
+      "os": "windows",
+      "branch": null,
+      "version_name": "EA 0.7.1.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-06-07T15:23:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/cb/de/cbdef89502c8b612ca4c943dc12d1cac"
+    },
+    {
+      "build_id": "54169355052265198",
+      "product_id": "1667167658",
+      "os": "windows",
+      "branch": null,
+      "version_name": "EA 0.7.0.5 Final",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-02-27T08:49:47+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/30/7d/307dcf4c6f70fa3ffeca1c9109ddc71d"
+    }
+  ],
+  "has_private_branches": true
+}

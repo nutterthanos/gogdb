@@ -1,0 +1,82 @@
+{
+  "total_count": 40,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56335649734937839",
+      "product_id": "1077045575",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.10",
+      "tags": [
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-03-16T02:48:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9f/e5/9fe5cb24a3248efaaea1df1a1cf7d574"
+    },
+    {
+      "build_id": "55548041126059176",
+      "product_id": "1077045575",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.9",
+      "tags": [
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-06-20T13:59:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4a/7e/4a7e88cbdc61a0b5f0443da67b36f942"
+    },
+    {
+      "build_id": "55019239893270529",
+      "product_id": "1077045575",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.8",
+      "tags": [
+        "kubi",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-20T17:52:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4a/3b/4a3b56605a059b59617b90d7671f218f"
+    },
+    {
+      "build_id": "55013233893568288",
+      "product_id": "1077045575",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.7a",
+      "tags": [
+        "kubi",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-14T23:59:20+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ed/5f/ed5fef1dd6463e78bb747fefa05c922e"
+    },
+    {
+      "build_id": "55012031199859756",
+      "product_id": "1077045575",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.7",
+      "tags": [
+        "kubi",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-14T17:50:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/be/3c/be3cb644fb42debf5f7e8e8e906fb678"
+    }
+  ],
+  "has_private_branches": true
+}

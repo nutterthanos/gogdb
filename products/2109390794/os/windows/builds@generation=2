@@ -1,0 +1,35 @@
+{
+  "total_count": 5,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "50921023429671341",
+      "product_id": "2109390794",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Patch 2 Hotfix",
+      "tags": [
+        "csb_10_3_0_w_2"
+      ],
+      "public": true,
+      "date_published": "2018-02-02T09:49:02+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1f/db/1fdb455f5388aba06464f325f14a906f"
+    },
+    {
+      "build_id": "50895019932542873",
+      "product_id": "2109390794",
+      "os": "windows",
+      "branch": null,
+      "version_name": "gog-1",
+      "tags": [
+        "csb_10_3_0_w_2"
+      ],
+      "public": true,
+      "date_published": "2018-01-24T10:37:28+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0f/a0/0fa012ecf6dde6f0a723dbbce2032d77"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,49 @@
+{
+  "total_count": 8,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "55101451543953081",
+      "product_id": "1196739945",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.03 RDNA fix",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-01-14T09:16:49+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ba/e3/bae3a5890e83c96dbea5fb29660d0dbf"
+    },
+    {
+      "build_id": "53211008763728664",
+      "product_id": "1196739945",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.03(a)",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-04-02T07:20:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6a/40/6a409a51b4727f0d0e48bef7fddc7aa7"
+    },
+    {
+      "build_id": "52333338215530318",
+      "product_id": "1196739945",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.03",
+      "tags": [
+        "csb_10_5_2_w_104"
+      ],
+      "public": true,
+      "date_published": "2019-06-04T13:35:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e2/78/e2782cc6c3d188d5d6a4fd490d0a5d8e"
+    }
+  ],
+  "has_private_branches": true
+}

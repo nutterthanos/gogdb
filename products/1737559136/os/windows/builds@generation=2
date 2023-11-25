@@ -1,0 +1,22 @@
+{
+  "total_count": 2,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "55990251225383732",
+      "product_id": "1737559136",
+      "os": "windows",
+      "branch": null,
+      "version_name": "v1.0",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2022-11-16T22:59:28+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/22/dd/22dd781de5b818da33d49db29e2be06b"
+    }
+  ],
+  "has_private_branches": true
+}

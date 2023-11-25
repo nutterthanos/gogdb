@@ -1,0 +1,21 @@
+{
+  "total_count": 73,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "56295134411796947",
+      "product_id": "1421555971",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.78819",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-03-02T03:08:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/41/f4/41f4b327e8fc904bb952c651a6b4fcc5"
+    }
+  ],
+  "has_private_branches": true
+}

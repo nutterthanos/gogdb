@@ -1,0 +1,85 @@
+{
+  "total_count": 35,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56679397128702746",
+      "product_id": "1738429241",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.5c",
+      "tags": [
+        "receiver_v1",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-07-12T16:03:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c2/c4/c2c4a697df230c7176d55fd7b2c70d17"
+    },
+    {
+      "build_id": "56678799286197078",
+      "product_id": "1738429241",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.5b",
+      "tags": [
+        "receiver_v1",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-07-12T11:06:01+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/26/1a/261ad6c8ffa7e0c223933a085d6dd638"
+    },
+    {
+      "build_id": "56675780112219290",
+      "product_id": "1738429241",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.5",
+      "tags": [
+        "receiver_v1",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-07-11T10:24:52+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b6/90/b690a31ccbfbdfa49b598fa0e03f63c0"
+    },
+    {
+      "build_id": "56032411798569436",
+      "product_id": "1738429241",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.4a",
+      "tags": [
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-01T13:41:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6f/8a/6f8aceace5a2e2791bf2723449e3c9c1"
+    },
+    {
+      "build_id": "55986449651020666",
+      "product_id": "1738429241",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.3a",
+      "tags": [
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-11-15T15:41:57+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dd/e3/dde3e8657727a8a849bf975c959d0718"
+    }
+  ],
+  "has_private_branches": true
+}

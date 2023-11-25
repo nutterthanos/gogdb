@@ -1,0 +1,83 @@
+{
+  "total_count": 73,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56896789255238894",
+      "product_id": "1207658855",
+      "os": "windows",
+      "branch": null,
+      "version_name": "MoMC 1.60.00",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-09-25T15:49:49+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4e/61/4e612ef291eb2480f8de4c87a712f884"
+    },
+    {
+      "build_id": "56867737961865886",
+      "product_id": "1207658855",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CMFW 1.05.02",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-09-15T15:28:47+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f4/f7/f4f77bf830b43f74a7c9bd697b0c1198"
+    },
+    {
+      "build_id": "56722511422701084",
+      "product_id": "1207658855",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CMFW 1.05.01",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-07-27T13:19:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3c/dc/3cdcd7fb9593d059047dd0f0e8495d59"
+    },
+    {
+      "build_id": "56681859851124176",
+      "product_id": "1207658855",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CMFW 1.05.00",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-07-13T15:02:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/aa/c0/aac0618293a70a75e0ba44e5d348f423"
+    },
+    {
+      "build_id": "56171477073229006",
+      "product_id": "1207658855",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CMFW 1.04.07",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-01-18T11:22:38+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e7/e5/e7e585857b9bcbd70894c17fa8e152a0"
+    }
+  ],
+  "has_private_branches": true
+}

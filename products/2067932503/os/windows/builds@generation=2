@@ -1,0 +1,21 @@
+{
+  "total_count": 3,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "55091469606478868",
+      "product_id": "2067932503",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Lets Ride 2022-01-10 @ 16:28:10",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-01-10T22:29:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6f/8c/6f8cadcc10ea2e3e193c26c58dc5bc69"
+    }
+  ],
+  "has_private_branches": true
+}

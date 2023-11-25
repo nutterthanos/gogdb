@@ -1,0 +1,79 @@
+{
+  "total_count": 16,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56931144034451301",
+      "product_id": "1132748633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Dagon_2023-10-07",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-07T12:11:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/00/b0/00b03e421970f83a3608aae0e0ad8099"
+    },
+    {
+      "build_id": "56919111805958134",
+      "product_id": "1132748633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Dagon_2023-10-03",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-03T08:34:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ec/e5/ece55367829c255854f41a3ac3d119e2"
+    },
+    {
+      "build_id": "55713518489148008",
+      "product_id": "1132748633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Dagon_2022-08-13",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-08-13T12:41:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ca/43/ca436f2135188c35055683047d247a83"
+    },
+    {
+      "build_id": "54875528466004131",
+      "product_id": "1132748633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Dagon_2021-10-28",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-10-28T10:53:35+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8f/bb/8fbb19bd16a78a00a8921df3f698f708"
+    },
+    {
+      "build_id": "54864096059227917",
+      "product_id": "1132748633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Dagon_2021-10-24",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-10-24T12:12:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/84/c5/84c50427de7b62a11fa7133450582a23"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,49 @@
+{
+  "total_count": 8,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "55101888204111923",
+      "product_id": "2000520059",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.01 AMD RDNA fix",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-01-14T12:45:54+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ee/26/ee2616027da54ed2ed4b511afc363b67"
+    },
+    {
+      "build_id": "53515224964832423",
+      "product_id": "2000520059",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.01 hotfix",
+      "tags": [
+        "csb_10_6_1_w_136"
+      ],
+      "public": true,
+      "date_published": "2020-07-16T05:41:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/83/2e/832e7bdd445023197aa9d33fd6d96a12"
+    },
+    {
+      "build_id": "53507952976630240",
+      "product_id": "2000520059",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.01",
+      "tags": [
+        "csb_10_6_1_w_136"
+      ],
+      "public": true,
+      "date_published": "2020-07-13T17:33:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c7/f9/c7f922b2340ddd930741075c8bca2f12"
+    }
+  ],
+  "has_private_branches": true
+}

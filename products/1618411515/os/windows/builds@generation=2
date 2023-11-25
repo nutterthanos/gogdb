@@ -1,0 +1,80 @@
+{
+  "total_count": 32,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "55802661949372229",
+      "product_id": "1618411515",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.10.10.1 hotfix",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-09-13T06:04:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b3/99/b399153b71465e1c9373546fca682619"
+    },
+    {
+      "build_id": "55220328761368307",
+      "product_id": "1618411515",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.10.10.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_157"
+      ],
+      "public": true,
+      "date_published": "2022-02-24T09:15:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7a/52/7a52a6f17ee4a4e17a6bb0041ce75cc8"
+    },
+    {
+      "build_id": "55130168954533185",
+      "product_id": "1618411515",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.9.9.1 hotfix 3",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-01-24T06:51:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b0/2d/b02da46404c00083379b267ebea8ff1f"
+    },
+    {
+      "build_id": "52454985236066536",
+      "product_id": "1618411515",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.7.7.1",
+      "tags": [
+        "csb_10_6_1_w_129"
+      ],
+      "public": true,
+      "date_published": "2019-07-16T12:36:18+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7d/47/7d47a96cef17caa1a376bd3db7b3da83"
+    },
+    {
+      "build_id": "52278222394615072",
+      "product_id": "1618411515",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.6.6.1 hotfix",
+      "tags": [
+        "csb_10_6_0_w_114"
+      ],
+      "public": true,
+      "date_published": "2019-05-16T13:23:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c9/0b/c90b67f7d7a1f40b94ff9a103cba5aab"
+    }
+  ],
+  "has_private_branches": true
+}

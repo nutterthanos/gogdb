@@ -1,0 +1,49 @@
+{
+  "total_count": 17,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "51317894874036905",
+      "product_id": "1503191590",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2.1.0",
+      "tags": [
+        "csb_10_4_0_w_23"
+      ],
+      "public": true,
+      "date_published": "2018-06-19T07:17:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1a/92/1a92e042bf93bfe32296d9df3ee59008"
+    },
+    {
+      "build_id": "50106981289503251",
+      "product_id": "1503191590",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.4 (Cloud Save)",
+      "tags": [
+        "csb_1_0_9_w_118"
+      ],
+      "public": true,
+      "date_published": "2017-04-27T14:53:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ad/44/ad44eb6da65168eb0814e9a192d35da7"
+    },
+    {
+      "build_id": "50098468686227219",
+      "product_id": "1503191590",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.3 gog",
+      "tags": [
+        "csb_10_0_0_w_21"
+      ],
+      "public": true,
+      "date_published": "2017-04-24T16:19:55+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/db/8d/db8dffc819ab9833f2696a1f83099ec6"
+    }
+  ],
+  "has_private_branches": true
+}

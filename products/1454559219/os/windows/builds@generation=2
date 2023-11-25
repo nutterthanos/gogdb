@@ -1,0 +1,23 @@
+{
+  "total_count": 2,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "56880274769592958",
+      "product_id": "1454559219",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Update 2d",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-09-19T23:05:34+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/72/4b/724bcbd2210d975b3d32304fcc683b44"
+    }
+  ],
+  "has_private_branches": true
+}

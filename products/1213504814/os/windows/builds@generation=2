@@ -1,0 +1,21 @@
+{
+  "total_count": 4,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "55701555937600834",
+      "product_id": "1213504814",
+      "os": "windows",
+      "branch": null,
+      "version_name": "RC2",
+      "tags": [
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-08-09T09:39:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5e/50/5e507a150a8c5003b3990f7a85324279"
+    }
+  ],
+  "has_private_branches": true
+}

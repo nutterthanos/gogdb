@@ -1,0 +1,71 @@
+{
+  "total_count": 10,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "56938348542946671",
+      "product_id": "1493813128",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Pre-Alpha 0.8.1",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-09T23:45:40+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/cc/62/cc62593b114bc374bdc73535790cf775"
+    },
+    {
+      "build_id": "56730727606877701",
+      "product_id": "1493813128",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Pre-Alpha 0.7.1",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-30T08:59:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/79/f2/79f213bde29f14827f1ff0b29be74375"
+    },
+    {
+      "build_id": "56703869641449992",
+      "product_id": "1493813128",
+      "os": "windows",
+      "branch": null,
+      "version_name": "GOG Pre-Alpha 0.7",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-21T02:39:10+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8d/1e/8d1e2ca1e02297198c8ddf3479bd272f"
+    },
+    {
+      "build_id": "56695449614698451",
+      "product_id": "1493813128",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Pre-Alpha 0.7",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-18T09:29:55+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c5/10/c5103b6c4d840533692ba31d62c30094"
+    }
+  ],
+  "has_private_branches": true
+}

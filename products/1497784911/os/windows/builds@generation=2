@@ -1,0 +1,69 @@
+{
+  "total_count": 12,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "51014314832958020",
+      "product_id": "1497784911",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.4",
+      "tags": [
+        "csb_10_3_0_w_2"
+      ],
+      "public": true,
+      "date_published": "2018-03-06T14:05:51+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a3/e4/a3e497663f32df599b695a7973f3b235"
+    },
+    {
+      "build_id": "49167545664813599",
+      "product_id": "1497784911",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.3",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-06-07T13:44:53+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/aa/72/aa727d2d808376a014abebdb3f60578d"
+    },
+    {
+      "build_id": "49092174609712783",
+      "product_id": "1497784911",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.2",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-12T13:47:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0e/60/0e60fcce70e3cfe8c2e3f37af2797023"
+    },
+    {
+      "build_id": "49069016492249820",
+      "product_id": "1497784911",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.1",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-04T14:04:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c4/56/c456c64ed8192a10bfda2a528168ed91"
+    },
+    {
+      "build_id": "49054515795742820",
+      "product_id": "1497784911",
+      "os": "windows",
+      "branch": null,
+      "version_name": "gog-1 (lang fix)",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-29T14:03:03+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b4/85/b4859a3dad694b3411fee4bb6f069f2b"
+    }
+  ],
+  "has_private_branches": true
+}

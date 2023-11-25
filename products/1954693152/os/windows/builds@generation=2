@@ -1,0 +1,67 @@
+{
+  "total_count": 11,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "54919589071179118",
+      "product_id": "1954693152",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.5",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-12T15:35:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ba/9d/ba9d3cd8644b44cd8907c7f7e6cf6585"
+    },
+    {
+      "build_id": "54889925672344117",
+      "product_id": "1954693152",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.3",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-02T10:01:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e1/42/e142497e72d5957db7ef3bb4e951bf54"
+    },
+    {
+      "build_id": "54878056556032311",
+      "product_id": "1954693152",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.2",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-10-29T07:45:54+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/85/3f/853fd688547a707b844d7633feb77ae8"
+    },
+    {
+      "build_id": "54870764527273716",
+      "product_id": "1954693152",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0.0",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-10-26T19:29:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d7/03/d703f9427bd98fb5590f429b0fae287d"
+    }
+  ],
+  "has_private_branches": true
+}

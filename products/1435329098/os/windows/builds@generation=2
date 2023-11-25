@@ -1,0 +1,78 @@
+{
+  "total_count": 111,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "54330981113365386",
+      "product_id": "1435329098",
+      "os": "windows",
+      "branch": null,
+      "version_name": "525",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-04-23T14:51:24+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4b/c5/4bc5fd47228ae8f3dace38a61fc1252c"
+    },
+    {
+      "build_id": "51854749543048798",
+      "product_id": "1435329098",
+      "os": "windows",
+      "branch": null,
+      "version_name": "522",
+      "tags": [
+        "csb_10_5_2_w_92"
+      ],
+      "public": true,
+      "date_published": "2018-12-21T14:30:47+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/21/a2/21a2d11d771ae161570779e2fd1563aa"
+    },
+    {
+      "build_id": "51845746065129908",
+      "product_id": "1435329098",
+      "os": "windows",
+      "branch": null,
+      "version_name": "520",
+      "tags": [
+        "csb_10_5_2_w_92"
+      ],
+      "public": true,
+      "date_published": "2018-12-18T09:24:10+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5f/4b/5f4bde4681d078e78b8de92a91d3e497"
+    },
+    {
+      "build_id": "51843381376892190",
+      "product_id": "1435329098",
+      "os": "windows",
+      "branch": null,
+      "version_name": "519",
+      "tags": [
+        "csb_10_5_2_w_92"
+      ],
+      "public": true,
+      "date_published": "2018-12-17T13:29:57+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e1/28/e128dcc4e79ec720f13c0c7b45e0f854"
+    },
+    {
+      "build_id": "51831781327507581",
+      "product_id": "1435329098",
+      "os": "windows",
+      "branch": null,
+      "version_name": "516",
+      "tags": [
+        "csb_10_5_2_w_92"
+      ],
+      "public": true,
+      "date_published": "2018-12-13T13:25:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/49/a5/49a57495d37f68c3977442e01fe08e02"
+    }
+  ],
+  "has_private_branches": true
+}

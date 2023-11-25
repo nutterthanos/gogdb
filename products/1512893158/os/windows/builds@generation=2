@@ -1,0 +1,87 @@
+{
+  "total_count": 10,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "57016866670548251",
+      "product_id": "1512893158",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Windows 1.0f Release",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-11-06T01:59:27+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9c/07/9c071e26088a38cf1d0d203ce79bcbab"
+    },
+    {
+      "build_id": "56995655599235382",
+      "product_id": "1512893158",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Windows 1.0e Release",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-29T18:09:24+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1a/96/1a96c9821c524709b846e5b7a473f362"
+    },
+    {
+      "build_id": "56992863582245617",
+      "product_id": "1512893158",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Windows 1.0d Release",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-28T19:09:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e8/6e/e86eaac4b948dbdf41809811955b8204"
+    },
+    {
+      "build_id": "56984786162306560",
+      "product_id": "1512893158",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Windows 1.0c Release",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-26T00:25:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c3/cb/c3cb00aa6cabd3a08de4693d9aa049c0"
+    },
+    {
+      "build_id": "56976251435128119",
+      "product_id": "1512893158",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Windows 1.0a Release",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-23T01:58:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d5/4b/d54b4526ef3fdf18453251a97c6ef1aa"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,35 @@
+{
+  "total_count": 5,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "55098838161927878",
+      "product_id": "1582325353",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.2 RDNA fix",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-01-13T11:33:44+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e5/ff/e5ff08a62bd4c5b1e77ab055f6bb37d0"
+    },
+    {
+      "build_id": "54790887299132444",
+      "product_id": "1582325353",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.2",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-09-29T07:21:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5b/1b/5b1bae95204b9b82736f807a8d3bb89b"
+    }
+  ],
+  "has_private_branches": true
+}

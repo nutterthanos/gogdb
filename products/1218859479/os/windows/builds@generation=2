@@ -1,0 +1,80 @@
+{
+  "total_count": 17,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56542497966033592",
+      "product_id": "1218859479",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.2.490-windows",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-26T10:45:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/cc/90/cc901960206232c4487ba9518babd0bd"
+    },
+    {
+      "build_id": "56539761181323271",
+      "product_id": "1218859479",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.2.487-windows",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-25T12:11:47+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/47/77/4777a4f71e61ee755890dc9688bd4579"
+    },
+    {
+      "build_id": "56469765104481665",
+      "product_id": "1218859479",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.2.483-windows",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-01T08:46:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/55/69/5569d050df939f558eb1dd2348edddf1"
+    },
+    {
+      "build_id": "56247139020283884",
+      "product_id": "1218859479",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.2.471-windows",
+      "tags": [
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-02-13T13:45:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e4/6c/e46cc285368c48c85dad4c0fd768e1cc"
+    },
+    {
+      "build_id": "56128613497603129",
+      "product_id": "1218859479",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.2.470-windows",
+      "tags": [
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-01-03T16:26:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5d/88/5d889b53f74a883e8cae9fb41ecf4211"
+    }
+  ],
+  "has_private_branches": true
+}

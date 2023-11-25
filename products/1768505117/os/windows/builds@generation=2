@@ -1,0 +1,23 @@
+{
+  "total_count": 3,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "56865296750660354",
+      "product_id": "1768505117",
+      "os": "windows",
+      "branch": null,
+      "version_name": "V1.08c GOG-LR",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-09-14T18:59:20+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/da/f6/daf600b54b8cc0207c15634d7dc0eda3"
+    }
+  ],
+  "has_private_branches": true
+}

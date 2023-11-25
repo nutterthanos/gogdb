@@ -1,0 +1,68 @@
+{
+  "total_count": 10,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "56409819657702515",
+      "product_id": "1497178414",
+      "os": "windows",
+      "branch": null,
+      "version_name": "7 disable esc key in choice menu",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-04-11T13:11:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ca/57/ca57e93bfc60826e13e1a1a03ba406bb"
+    },
+    {
+      "build_id": "56169824911215042",
+      "product_id": "1497178414",
+      "os": "windows",
+      "branch": null,
+      "version_name": "6 chinese localization changed per the translator",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-01-24T14:31:04+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5b/7d/5b7d3935359a5e07b99ea1d014bc9268"
+    },
+    {
+      "build_id": "56010632592473268",
+      "product_id": "1497178414",
+      "os": "windows",
+      "branch": null,
+      "version_name": "4 fixed save data bug",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2022-11-23T23:42:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/cd/2b/cd2b794a4ecdd68fa5ec01824c35efce"
+    },
+    {
+      "build_id": "55905403081969821",
+      "product_id": "1497178414",
+      "os": "windows",
+      "branch": null,
+      "version_name": "2",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-10-18T16:34:24+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b5/3e/b53eeed3223cb2b463c699202e882794"
+    }
+  ],
+  "has_private_branches": true
+}

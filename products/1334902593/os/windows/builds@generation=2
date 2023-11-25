@@ -1,0 +1,71 @@
+{
+  "total_count": 12,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "56991431994375685",
+      "product_id": "1334902593",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.1.4.3b",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-28T07:11:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/86/5f/865fcbb5e65e0bab9a12220c3df38fa9"
+    },
+    {
+      "build_id": "56727735904760011",
+      "product_id": "1334902593",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.1.4.2c",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-29T08:11:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/48/4d/484d29b2aeefb472406889a29ad000af"
+    },
+    {
+      "build_id": "56675510905035825",
+      "product_id": "1334902593",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.1.4.2b",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-11T07:52:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/49/28/49285a822fba5a836dbf3953326c456c"
+    },
+    {
+      "build_id": "56646340987447665",
+      "product_id": "1334902593",
+      "os": "windows",
+      "branch": null,
+      "version_name": "0.1.4.2a2",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-01T06:33:59+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/da/ad/daadb97f336680cc3d5db9a184042939"
+    }
+  ],
+  "has_private_branches": true
+}

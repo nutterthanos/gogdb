@@ -1,0 +1,63 @@
+{
+  "total_count": 129,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "52594102607790003",
+      "product_id": "1615328735",
+      "os": "windows",
+      "branch": null,
+      "version_name": "SVN 2797 PF 85690",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-09-02T12:17:02+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b3/58/b358e6bf2c97c34180f42edf0cde9cb6"
+    },
+    {
+      "build_id": "52559167802074496",
+      "product_id": "1615328735",
+      "os": "windows",
+      "branch": null,
+      "version_name": "SVN 2791 PF 85555",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-08-21T11:05:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e7/36/e736c32fb320e5d7011ed4fd2be81c31"
+    },
+    {
+      "build_id": "52315632605009921",
+      "product_id": "1615328735",
+      "os": "windows",
+      "branch": null,
+      "version_name": "SVN 2746 PF 33302",
+      "tags": [
+        "csb_10_6_0_w_118"
+      ],
+      "public": true,
+      "date_published": "2019-05-29T11:07:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1a/67/1a6748a63aa95247ef59464255f348e5"
+    },
+    {
+      "build_id": "52257880370351140",
+      "product_id": "1615328735",
+      "os": "windows",
+      "branch": null,
+      "version_name": "SVN 2712 PF 32495",
+      "tags": [
+        "csb_10_6_0_w_115"
+      ],
+      "public": true,
+      "date_published": "2019-05-09T12:55:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/42/78/4278b5e7f479ae4787448f3cb88d271f"
+    }
+  ],
+  "has_private_branches": true
+}

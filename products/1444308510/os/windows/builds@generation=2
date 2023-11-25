@@ -1,0 +1,147 @@
+{
+  "total_count": 500,
+  "count": 10,
+  "items": [
+    {
+      "build_id": "55222886461813024",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": "Experimental Master",
+      "version_name": "build2-tdtd-06964af_tdtd-patch-windows-dev",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2022-02-25T06:32:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4c/80/4c808185758b12070fa7218632e3e39a"
+    },
+    {
+      "build_id": "55217590832239210",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": "Experimental Master",
+      "version_name": "build1-tdtd-a0e57f0_tdtd-patch-windows-dev",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2022-02-23T10:41:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/46/12/46121c24aa32eccd94aae59e470addf4"
+    },
+    {
+      "build_id": "55214552048678790",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": "Experimental Master",
+      "version_name": "build65-tdtd-ff5f848_tdtd-patch-windows-dev",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2022-02-22T09:32:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/27/c5/27c5a236966470966a64dabe580f2f77"
+    },
+    {
+      "build_id": "55212014005911862",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": "Experimental Master",
+      "version_name": "build64-tdtd-d4beef1_tdtd-patch-windows-dev",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2022-02-21T12:31:26+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/71/bc/71bcff41bbf117f00bcd35820ede024e"
+    },
+    {
+      "build_id": "55209631039937358",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": "Experimental Master",
+      "version_name": "build62-tdtd-dbdf760_tdtd-patch-windows-dev",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2022-02-20T16:48:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0e/8b/0e8b591c5222f60a7a40d68fbb0491a4"
+    },
+    {
+      "build_id": "55222777248306843",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": null,
+      "version_name": "build3-tdtd-06964af_tdtd-release_candidate-windows-release",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2022-02-25T05:38:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fe/64/fe640ed2c2374a577944812aa3f7157b"
+    },
+    {
+      "build_id": "55110012669943364",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": null,
+      "version_name": "build5-tdtd-ac5210d_tdtd-release_candidate-windows-release",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2022-01-17T08:06:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/65/39/6539b8d41aaa15076e593b5d5129fa70"
+    },
+    {
+      "build_id": "55029723341031982",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": null,
+      "version_name": "build49-tdtd-683d7ce_tdtd-release_candidate-windows-release",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2021-12-20T15:20:44+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/df/9b/df9b75854b38a462fa93368868381b06"
+    },
+    {
+      "build_id": "54954054109038220",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": null,
+      "version_name": "build40-warpcore-28c0e6c_tdtd-release_candidate-windows-release",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2021-11-24T12:54:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e9/6a/e96a5a95a79696a806de8f0654132f3d"
+    },
+    {
+      "build_id": "54927710771134251",
+      "product_id": "1444308510",
+      "os": "windows",
+      "branch": null,
+      "version_name": "build39-tdtd-0fe3e25_tdtd-release_candidate-windows-release",
+      "tags": [
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2021-11-15T10:50:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/46/c2/46c27521c31c25d11bcff28b82c16009"
+    }
+  ],
+  "has_private_branches": true
+}

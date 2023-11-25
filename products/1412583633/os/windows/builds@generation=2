@@ -1,0 +1,227 @@
+{
+  "total_count": 228,
+  "count": 15,
+  "items": [
+    {
+      "build_id": "57061337322933345",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Experimental",
+      "version_name": "Milestone 2.12b",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-21T10:28:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/76/ab/76ab24574e18ac84bee63eda20822c1e"
+    },
+    {
+      "build_id": "57059414636659777",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Experimental",
+      "version_name": "Milestone 2.12",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-20T21:02:45+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/31/c5/31c581d7a967e431ce9d31bf4f65f758"
+    },
+    {
+      "build_id": "57051521183081094",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Experimental",
+      "version_name": "Milestone 2.11",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-18T01:04:09+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f6/3f/f63fcdb474b20201ec562b68eac6f140"
+    },
+    {
+      "build_id": "57039962802027785",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Experimental",
+      "version_name": "Milestone 2.10",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-14T01:08:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/55/53/5553d1e2b51ba6860f9cfe52eac19026"
+    },
+    {
+      "build_id": "57025399611831582",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Experimental",
+      "version_name": "Milestone 2.09",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-09T10:53:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d3/59/d359d30902f1cfb076df74812719ecc5"
+    },
+    {
+      "build_id": "56847574197808395",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 1.33b RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-09-18T12:09:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/88/bf/88bf907e084fc03db3124192e212ed40"
+    },
+    {
+      "build_id": "56827393075710651",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 1.32c RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-09-05T16:03:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/de/bf/debf1afade6aaa6456b5d5554f9daa72"
+    },
+    {
+      "build_id": "56813750164293713",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 1.31d RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-08-28T19:56:59+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/db/1d/db1dddcd33aaa1fa79c48de8ffffc3af"
+    },
+    {
+      "build_id": "56807669402360202",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 1.31c RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-08-25T23:23:17+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2f/5e/2f5e4f12c6f271b0c91401235f4c4ca2"
+    },
+    {
+      "build_id": "56781547849573386",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 1.30b RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-08-22T21:44:59+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/07/91/07913313bfa917a935907f6d42e47472"
+    },
+    {
+      "build_id": "54946780932980857",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Legacy",
+      "version_name": "Closed Beta V22.6 Release",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-26T11:46:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/83/76/83763f8d5aabd12ec64e2bb6a24750d0"
+    },
+    {
+      "build_id": "54890655264060661",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Legacy",
+      "version_name": "Closed Beta V22.4",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-02T17:34:15+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e1/63/e16312f6160859ce93f71ce279010762"
+    },
+    {
+      "build_id": "54870595302954093",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Legacy",
+      "version_name": "Closed Beta V22.2",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-10-26T20:11:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/95/4b/954bc977e876cc9131f91266c1deea90"
+    },
+    {
+      "build_id": "54230372836848135",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Legacy",
+      "version_name": "Closed Beta V18.2",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-03-20T22:48:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/16/77/16775a09a2bff30bedc246791ce7831e"
+    },
+    {
+      "build_id": "52737158727100015",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Legacy",
+      "version_name": "Closed Beta V8.3",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-10-22T20:11:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/55/8b/558b0ee9db5010053926783235764aaa"
+    }
+  ],
+  "has_private_branches": true
+}

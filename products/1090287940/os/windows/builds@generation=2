@@ -1,0 +1,77 @@
+{
+  "total_count": 18,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "55925842799965191",
+      "product_id": "1090287940",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CE2-build-win64-release-1816",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-10-26T13:45:20+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/16/11/1611391cf71935716137dfe151ccab1c"
+    },
+    {
+      "build_id": "55913956499109593",
+      "product_id": "1090287940",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CE2-build-win64-release-1810",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-10-21T16:02:02+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f5/41/f5414265b14e9802c7b8cccdfa23700a"
+    },
+    {
+      "build_id": "55911268735170043",
+      "product_id": "1090287940",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CE2-build-win64-release-1809",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-10-20T17:54:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fd/6f/fd6f01e84d0e50e370bc6a0418cf853e"
+    },
+    {
+      "build_id": "55849800072978725",
+      "product_id": "1090287940",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CE2-build-win64-release-1806",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-09-30T08:43:04+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5b/5b/5b5b8bb98b6779d7f1e78c1eb104f074"
+    },
+    {
+      "build_id": "55820774155815124",
+      "product_id": "1090287940",
+      "os": "windows",
+      "branch": null,
+      "version_name": "CE2-build-win64-release-1796",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-09-19T12:46:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b5/70/b570f579b1e3623c706dc671661eba2e"
+    }
+  ],
+  "has_private_branches": true
+}
