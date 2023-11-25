@@ -97,7 +97,7 @@ async def download_and_save(session, product_id, operating_system, generation, s
 
 async def main():
     start_page_id = 1  # Replace with your start page ID
-    os_type = "windows"  # Replace with your operating system
+    os_type = "osx"  # Replace with your operating system
     generation = 2  # Replace with your generation
 
     async with aiohttp.ClientSession() as session:
