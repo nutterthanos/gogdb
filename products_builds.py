@@ -104,7 +104,7 @@ async def main():
         # Initial call to get the total number of pages
         end_page_id, _ = await fetch_product_ids(session, start_page_id)
 
-        semaphore = asyncio.Semaphore(2)  # Adjust the semaphore value as needed
+        semaphore = asyncio.Semaphore(1)  # Adjust the semaphore value as needed
         hashes = {}
         completed_tasks = []
 
