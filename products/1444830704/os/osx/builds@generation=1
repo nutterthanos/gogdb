@@ -1,0 +1,20 @@
+{
+  "total_count": 1,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "48779542984432157",
+      "product_id": "1444830704",
+      "os": "osx",
+      "branch": null,
+      "version_name": "",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-01-25T17:41:05+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1444830704/osx/60112911/repository.json",
+      "legacy_build_id": 60112911
+    }
+  ],
+  "has_private_branches": false
+}

@@ -1,0 +1,20 @@
+{
+  "total_count": 1,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "48787675277311240",
+      "product_id": "1452598881",
+      "os": "osx",
+      "branch": null,
+      "version_name": "glad giraffe",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-01-28T13:00:27+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1452598881/osx/60191031/repository.json",
+      "legacy_build_id": 60191031
+    }
+  ],
+  "has_private_branches": false
+}
