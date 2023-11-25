@@ -1,0 +1,33 @@
+{
+  "total_count": 2,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "48662682444287080",
+      "product_id": "1422870624",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.26",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-12-16T10:15:50+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1422870624/windows/56558997/repository.json",
+      "legacy_build_id": 56558997
+    },
+    {
+      "build_id": "15391",
+      "product_id": "1422870624",
+      "os": "windows",
+      "branch": null,
+      "version_name": "",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-02-13T14:54:55+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1422870624/windows/30210895/repository.json",
+      "legacy_build_id": 30210895
+    }
+  ],
+  "has_private_branches": false
+}

@@ -1,0 +1,20 @@
+{
+  "total_count": 1,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "2451",
+      "product_id": "1207658867",
+      "os": "windows",
+      "branch": null,
+      "version_name": "",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-01-30T13:52:50+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1207658867/windows/28997570/repository.json",
+      "legacy_build_id": 28997570
+    }
+  ],
+  "has_private_branches": false
+}

@@ -1,0 +1,20 @@
+{
+  "total_count": 1,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "48787664713435961",
+      "product_id": "1452598881",
+      "os": "windows",
+      "branch": null,
+      "version_name": "glad giraffe",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-01-28T12:55:12+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1452598881/windows/59678681/repository.json",
+      "legacy_build_id": 59678681
+    }
+  ],
+  "has_private_branches": false
+}
