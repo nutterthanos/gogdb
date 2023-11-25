@@ -1,0 +1,37 @@
+{
+  "total_count": 16,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "55928944267210408",
+      "product_id": "1960384075",
+      "os": "osx",
+      "branch": null,
+      "version_name": "MANDIBLE+NERVE Update",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-10-26T19:27:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ed/b8/edb8867299585e7a47f68809b58b2225"
+    },
+    {
+      "build_id": "54276248828488297",
+      "product_id": "1960384075",
+      "os": "osx",
+      "branch": null,
+      "version_name": "LIVER Update",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-04-04T17:45:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a2/cb/a2cb5c046b4cd9e826e08a9ccc380c78"
+    }
+  ],
+  "has_private_branches": true
+}

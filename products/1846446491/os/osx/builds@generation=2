@@ -1,0 +1,37 @@
+{
+  "total_count": 5,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "53469873852277810",
+      "product_id": "1846446491",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0 audio fix",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2020-06-30T14:17:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4f/6c/4f6c367d167348ae5853fcebaa42e7d7"
+    },
+    {
+      "build_id": "52907265052076680",
+      "product_id": "1846446491",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2019-12-19T12:42:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9a/36/9a36b88e47dae7ebc6f27e1b344dfaf5"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,82 @@
+{
+  "total_count": 71,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "57012770157581620",
+      "product_id": "1941218424",
+      "os": "osx",
+      "branch": null,
+      "version_name": "t6-#1109-winmaclin-gog@f400b1d",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-08T13:20:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1e/ca/1eca7f38fed6e5e0bb74d76e7b8e11a5"
+    },
+    {
+      "build_id": "56980009178523319",
+      "product_id": "1941218424",
+      "os": "osx",
+      "branch": null,
+      "version_name": "t6-#1104-winmaclin-gog@06e7756",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-25T11:07:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ba/77/ba7792a5d8717d45acf18b67c74bc691"
+    },
+    {
+      "build_id": "56931591930739313",
+      "product_id": "1941218424",
+      "os": "osx",
+      "branch": null,
+      "version_name": "t6-#1091-winmaclin-gog@35f506a",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-12T11:58:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/69/68/6968881345ac9ef062fc59c103fadee5"
+    },
+    {
+      "build_id": "56929206990215083",
+      "product_id": "1941218424",
+      "os": "osx",
+      "branch": null,
+      "version_name": "t6-#1090-winmaclin-gog@5796cbd",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-06T20:32:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5a/59/5a593044d8895abf1fdc91de450154d2"
+    },
+    {
+      "build_id": "56925534431285087",
+      "product_id": "1941218424",
+      "os": "osx",
+      "branch": null,
+      "version_name": "t6-#1086-winmaclin-gog@1d4ee5f",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-05T15:46:04+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d7/47/d7478e363ffb95f51d4c68c1c0c56253"
+    }
+  ],
+  "has_private_branches": true
+}

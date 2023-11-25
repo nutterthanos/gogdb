@@ -1,0 +1,67 @@
+{
+  "total_count": 14,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "49274251583673163",
+      "product_id": "1459868439",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.034",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-07-14T09:18:04+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3d/6c/3d6cface40d8e30b4993fb51b7d736ae"
+    },
+    {
+      "build_id": "49265785857608076",
+      "product_id": "1459868439",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.03(v2)",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-07-11T11:11:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dc/7c/dc7cd76c26419912b816ee256be5be35"
+    },
+    {
+      "build_id": "49257072811614811",
+      "product_id": "1459868439",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.03",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-07-08T11:39:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dc/7c/dc7cd76c26419912b816ee256be5be35"
+    },
+    {
+      "build_id": "49068610242092391",
+      "product_id": "1459868439",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.02",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-04T12:48:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/04/8c/048c8fcf881221724b8001cc5c390bed"
+    },
+    {
+      "build_id": "49010639540057001",
+      "product_id": "1459868439",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.01",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-14T12:27:27+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d0/7a/d07aea99e9c80540ba2c5d04d71b8c5c"
+    }
+  ],
+  "has_private_branches": true
+}

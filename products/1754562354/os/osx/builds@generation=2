@@ -1,0 +1,87 @@
+{
+  "total_count": 10,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56988354316797499",
+      "product_id": "1754562354",
+      "os": "osx",
+      "branch": null,
+      "version_name": "OSX 3.0",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-10-27T05:58:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b9/ba/b9ba80bcc11ab3fb35cb5eddd81b23d5"
+    },
+    {
+      "build_id": "56840571759795027",
+      "product_id": "1754562354",
+      "os": "osx",
+      "branch": null,
+      "version_name": "OSX 1.1",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-09-06T06:18:55+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b5/99/b59964ceb39d784fb0e099445baee39f"
+    },
+    {
+      "build_id": "56825798198144837",
+      "product_id": "1754562354",
+      "os": "osx",
+      "branch": null,
+      "version_name": "OSX 1.0.9",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-09-01T04:00:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2d/b5/2db5cea87ce476f2e5a68a9be0f23549"
+    },
+    {
+      "build_id": "56799201007887324",
+      "product_id": "1754562354",
+      "os": "osx",
+      "branch": null,
+      "version_name": "OSX 1.0.2",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-08-22T23:51:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e2/0d/e20d9b4d2bc230e0d32e9e987433c274"
+    },
+    {
+      "build_id": "56726891920011142",
+      "product_id": "1754562354",
+      "os": "osx",
+      "branch": null,
+      "version_name": "OSX 1.0.1",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-29T01:23:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ae/e8/aee84ddb25c866f9fa0cc12dbbc1cefd"
+    }
+  ],
+  "has_private_branches": true
+}

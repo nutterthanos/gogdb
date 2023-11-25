@@ -1,0 +1,80 @@
+{
+  "total_count": 20,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "54180719790909029",
+      "product_id": "1207664823",
+      "os": "osx",
+      "branch": null,
+      "version_name": "4.1A (OpenGL Fi + Arby's)",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-03-02T18:55:38+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2e/a9/2ea9afa75182fa6c9e8ad1c865f3023b"
+    },
+    {
+      "build_id": "53086891106633163",
+      "product_id": "1207664823",
+      "os": "osx",
+      "branch": null,
+      "version_name": "4.1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2020-02-19T11:44:20+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/be/d5/bed5d0f9e9fd1b085d4590fd8fab5e93"
+    },
+    {
+      "build_id": "52877935057741498",
+      "product_id": "1207664823",
+      "os": "osx",
+      "branch": null,
+      "version_name": "4.0A",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2019-12-09T09:54:45+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/97/d9/97d9890aec0a6dfdf9687c42e8e0a87c"
+    },
+    {
+      "build_id": "50570549671301513",
+      "product_id": "1207664823",
+      "os": "osx",
+      "branch": null,
+      "version_name": "3.3",
+      "tags": [
+        "csb_10_2_0_o_194"
+      ],
+      "public": true,
+      "date_published": "2017-10-04T12:23:55+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b1/a7/b1a746aa6b704a65a7bef78951e14c89"
+    },
+    {
+      "build_id": "50040080888283711",
+      "product_id": "1207664823",
+      "os": "osx",
+      "branch": null,
+      "version_name": "3.0A",
+      "tags": [
+        "csb_1_0_9_o_118"
+      ],
+      "public": true,
+      "date_published": "2017-04-04T12:57:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e3/39/e3393db55efe0164a7866606797f8bda"
+    }
+  ],
+  "has_private_branches": true
+}

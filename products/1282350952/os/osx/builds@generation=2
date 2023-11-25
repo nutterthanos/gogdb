@@ -1,0 +1,138 @@
+{
+  "total_count": 103,
+  "count": 9,
+  "items": [
+    {
+      "build_id": "57002306204139982",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6.9.3",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-01T01:18:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ef/2f/ef2f5932fb5c6e039f8634cf74800cea"
+    },
+    {
+      "build_id": "56922377069073021",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6.9.1",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-04T11:39:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/cf/a9/cfa9dc74d51aee62bd312b0b277848bc"
+    },
+    {
+      "build_id": "56912502249053597",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6.9",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-01T01:53:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/74/95/7495fab7a1030cc64edecb9764d91baf"
+    },
+    {
+      "build_id": "56826665037230563",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6.8.1",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-09-01T11:13:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8c/31/8c3136b4d134614241348e4baffad7a8"
+    },
+    {
+      "build_id": "56825508467752215",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6.8",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-09-01T10:01:51+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/12/79/1279e2efdbc3c33cf8f9df17b2b58d4f"
+    },
+    {
+      "build_id": "52336488452067052",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": "production",
+      "version_name": "V1.3.0.13",
+      "tags": [
+        "csb_10_6_0_w_118"
+      ],
+      "public": true,
+      "date_published": "2019-06-05T15:37:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3f/69/3f69cfe559e8d57b383287773ce0622d"
+    },
+    {
+      "build_id": "52335700782128924",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": "production",
+      "version_name": "V1.3.0.12",
+      "tags": [
+        "csb_10_6_0_w_118"
+      ],
+      "public": true,
+      "date_published": "2019-06-05T09:11:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/58/59/58590823eaed5624efa04368840f0a4e"
+    },
+    {
+      "build_id": "52331184107320392",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": "production",
+      "version_name": "V1.3.0.11",
+      "tags": [
+        "csb_10_6_0_w_118"
+      ],
+      "public": true,
+      "date_published": "2019-06-03T19:42:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e7/f2/e7f277805da9874da9fa97ccb360ddce"
+    },
+    {
+      "build_id": "52292434587738007",
+      "product_id": "1282350952",
+      "os": "osx",
+      "branch": "production",
+      "version_name": "V1.3.0.9",
+      "tags": [
+        "csb_10_6_0_w_115"
+      ],
+      "public": true,
+      "date_published": "2019-05-21T10:57:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d7/9e/d79ea2ad63822242aea6855384c28277"
+    }
+  ],
+  "has_private_branches": false
+}

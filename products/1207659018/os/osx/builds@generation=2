@@ -1,0 +1,50 @@
+{
+  "total_count": 5,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "53614651620475792",
+      "product_id": "1207659018",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1016 hotfix",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_139"
+      ],
+      "public": true,
+      "date_published": "2020-08-19T12:47:34+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/96/00/960052150361d128d1e2a36fc9141782"
+    },
+    {
+      "build_id": "53597068860601287",
+      "product_id": "1207659018",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1016",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_139"
+      ],
+      "public": true,
+      "date_published": "2020-08-13T11:14:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/74/3d/743dc18b3dd62858c182713bbf31c181"
+    },
+    {
+      "build_id": "4211",
+      "product_id": "1207659018",
+      "os": "osx",
+      "branch": null,
+      "version_name": "",
+      "tags": [],
+      "public": true,
+      "date_published": "2014-11-29T01:51:29+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1207659018/osx/23597489/repository.json",
+      "legacy_build_id": 23597489
+    }
+  ],
+  "has_private_branches": true
+}

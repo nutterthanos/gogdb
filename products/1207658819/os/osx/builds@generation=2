@@ -1,0 +1,37 @@
+{
+  "total_count": 8,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "51671903893215056",
+      "product_id": "1207658819",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Myst 25th Anniversary Release (Lang Select)",
+      "tags": [
+        "editor_v_1_2_0",
+        "csb_10_5_0_o_30"
+      ],
+      "public": true,
+      "date_published": "2018-10-19T09:54:17+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a9/d3/a9d30ccc6568cbb6a4fa69e06eb41975"
+    },
+    {
+      "build_id": "51630174366601021",
+      "product_id": "1207658819",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Myst 25th Anniversary Release",
+      "tags": [
+        "editor_v_1_2_0",
+        "csb_10_5_0_o_30"
+      ],
+      "public": true,
+      "date_published": "2018-10-05T00:28:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c5/2b/c52b5c92586e5df95d8540c82c35a19b"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,82 @@
+{
+  "total_count": 23,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "54346429891523955",
+      "product_id": "1461644805",
+      "os": "osx",
+      "branch": null,
+      "version_name": "The Signifier Director's Cut v1.101 OSX",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-04-29T11:09:49+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/69/d6/69d67823c9476920bcb2edea6faef1a8"
+    },
+    {
+      "build_id": "54325439342666785",
+      "product_id": "1461644805",
+      "os": "osx",
+      "branch": null,
+      "version_name": "The Signifier - OSX- Director's Cut v1.100",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-04-22T06:40:07+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e9/92/e992d72c06d96338846ff333d0c278f0"
+    },
+    {
+      "build_id": "53871059393398462",
+      "product_id": "1461644805",
+      "os": "osx",
+      "branch": null,
+      "version_name": "The Signifier - macOS - v1.04",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2020-11-16T02:52:40+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f2/9c/f29c08f61b89d0cf646146fb763fb6cc"
+    },
+    {
+      "build_id": "53819381985863952",
+      "product_id": "1461644805",
+      "os": "osx",
+      "branch": null,
+      "version_name": "The Signifier - macOS - v1.03",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2020-10-29T07:15:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/42/a8/42a843a59d238f93fe9d69e7e6d9052a"
+    },
+    {
+      "build_id": "53788767520190683",
+      "product_id": "1461644805",
+      "os": "osx",
+      "branch": null,
+      "version_name": "The Signifier - macOS - Patch1a",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2020-10-18T17:42:42+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ee/57/ee5784e937ceb2339186744d10a034f0"
+    }
+  ],
+  "has_private_branches": true
+}

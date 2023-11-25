@@ -1,0 +1,84 @@
+{
+  "total_count": 21,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56594054697040994",
+      "product_id": "1801948692",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.0.0.9 HF #1",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-06-13T05:33:24+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/58/1f/581fb9fff03b53f32b47329e1f64393e"
+    },
+    {
+      "build_id": "56588184546338630",
+      "product_id": "1801948692",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.0.0.9",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-06-11T05:01:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d8/2c/d82c0b12932260bf8b202570b7c58a10"
+    },
+    {
+      "build_id": "56178848222434239",
+      "product_id": "1801948692",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.0.0.8 HF #1",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-01-21T00:18:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/60/f6/60f6d2ac4a6ae0be8d64ffb6e10eb069"
+    },
+    {
+      "build_id": "56170914416896378",
+      "product_id": "1801948692",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.0.0.8",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-01-18T06:35:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/c0/db/c0db7fdd0ff0fc43947a97120b4a1589"
+    },
+    {
+      "build_id": "55899464389467730",
+      "product_id": "1801948692",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.0.0.7 Hotfix #3",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2022-10-16T15:26:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/07/0a/070aba802cadd697b926e8494b51a04e"
+    }
+  ],
+  "has_private_branches": true
+}

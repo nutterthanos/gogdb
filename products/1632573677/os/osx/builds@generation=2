@@ -1,0 +1,35 @@
+{
+  "total_count": 4,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "52167321054624492",
+      "product_id": "1632573677",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0 BGM & SFX update",
+      "tags": [
+        "csb_10_5_2_o_90"
+      ],
+      "public": true,
+      "date_published": "2019-04-08T07:09:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/34/f1/34f14aa10663c60fc66eb545a61e3c92"
+    },
+    {
+      "build_id": "51226075452236055",
+      "product_id": "1632573677",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0",
+      "tags": [
+        "csb_10_3_1_o_23"
+      ],
+      "public": true,
+      "date_published": "2018-05-18T15:07:24+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/31/82/318283735f8db2e777b5e7f3aad24132"
+    }
+  ],
+  "has_private_branches": true
+}

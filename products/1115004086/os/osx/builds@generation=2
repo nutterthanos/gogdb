@@ -1,0 +1,47 @@
+{
+  "total_count": 6,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "49988092966087107",
+      "product_id": "1115004086",
+      "os": "osx",
+      "branch": null,
+      "version_name": "update 8 (hotfix)",
+      "tags": [
+        "csb_1_0_9_o_106"
+      ],
+      "public": true,
+      "date_published": "2017-03-17T14:34:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4f/3d/4f3d10011816b42d4fe7eca5b2314433"
+    },
+    {
+      "build_id": "49979546245077219",
+      "product_id": "1115004086",
+      "os": "osx",
+      "branch": null,
+      "version_name": "update 8",
+      "tags": [
+        "csb_1_0_9_o_106"
+      ],
+      "public": true,
+      "date_published": "2017-03-14T15:49:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/82/b1/82b11c54a552cddd94f5d8dade2d738a"
+    },
+    {
+      "build_id": "49469097431645240",
+      "product_id": "1115004086",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-1",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-09-19T14:10:17+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e4/b7/e4b7107b4a32af903f20b0af6d9e5c20"
+    }
+  ],
+  "has_private_branches": true
+}

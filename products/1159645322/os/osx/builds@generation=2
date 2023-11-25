@@ -1,0 +1,22 @@
+{
+  "total_count": 4,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "54927877198036293",
+      "product_id": "1159645322",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0.1110",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-15T12:12:09+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/70/87/7087ee301bf89fca4c38b04a88414590"
+    }
+  ],
+  "has_private_branches": true
+}

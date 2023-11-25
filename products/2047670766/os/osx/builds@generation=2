@@ -1,0 +1,71 @@
+{
+  "total_count": 11,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "51629195369320098",
+      "product_id": "2047670766",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.0.6",
+      "tags": [
+        "csb_10_3_1_o_23"
+      ],
+      "public": true,
+      "date_published": "2018-10-04T16:19:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/95/0b/950b2b7841b23529099ddd6f130e075d"
+    },
+    {
+      "build_id": "50515691491999284",
+      "product_id": "2047670766",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.0.3",
+      "tags": [
+        "csb_10_2_0_o_161"
+      ],
+      "public": true,
+      "date_published": "2017-09-15T14:15:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/53/39/533982cc65a3aeae01cdf3b545bf2fea"
+    },
+    {
+      "build_id": "49327083033862394",
+      "product_id": "2047670766",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v.2.0.0",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-08-01T14:27:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6d/c1/6dc1e45603463ea2cf925453a0e44b25"
+    },
+    {
+      "build_id": "49054378475523254",
+      "product_id": "2047670766",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-3",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-29T13:21:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a3/0e/a30e8dcffc8032349b80b572cf1c76c8"
+    },
+    {
+      "build_id": "49030788615498827",
+      "product_id": "2047670766",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-2",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-21T09:45:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/00/89/0089d94d112318882b64c5f526d84f7c"
+    }
+  ],
+  "has_private_branches": true
+}

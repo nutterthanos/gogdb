@@ -1,0 +1,82 @@
+{
+  "total_count": 10,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "53638043867830293",
+      "product_id": "1923235038",
+      "os": "osx",
+      "branch": null,
+      "version_name": "VersusMacOS.1.01",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2020-08-27T14:34:01+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f1/fa/f1faa72769f3626ae2bbf8817b525a46"
+    },
+    {
+      "build_id": "53608665724594504",
+      "product_id": "1923235038",
+      "os": "osx",
+      "branch": null,
+      "version_name": "VersusMacOS.1.0",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-08-17T14:17:26+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ef/52/ef52a9210c3614fca28cf37901441062"
+    },
+    {
+      "build_id": "53171136047361242",
+      "product_id": "1923235038",
+      "os": "osx",
+      "branch": null,
+      "version_name": "PatchMacOS.1.08",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-03-19T13:10:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9a/9c/9a9c71073207bef1ad5600f4db5c1d7b"
+    },
+    {
+      "build_id": "53009366429239053",
+      "product_id": "1923235038",
+      "os": "osx",
+      "branch": null,
+      "version_name": "PatchMacOS.1.07",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2020-01-23T17:58:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8d/1b/8d1be033cc14d99a1c861eb127606ad7"
+    },
+    {
+      "build_id": "52739799155172277",
+      "product_id": "1923235038",
+      "os": "osx",
+      "branch": null,
+      "version_name": "PatchMacOS.1.06",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-10-22T18:41:21+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ff/b0/ffb0109eee519b85066c94b496659215"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,80 @@
+{
+  "total_count": 24,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56456311880310760",
+      "product_id": "1244373161",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.18.0.4324d",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-04-26T17:14:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/db/72/db72a32a6a3c560d0f35ca555329612b"
+    },
+    {
+      "build_id": "54655379767249918",
+      "product_id": "1244373161",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.3.0.1496d",
+      "tags": [
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-08-13T12:21:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6c/5c/6c5cbec890d63aac3d5d5b53dbf5ca2d"
+    },
+    {
+      "build_id": "54533554209262543",
+      "product_id": "1244373161",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.0.0.943d (b)",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_147"
+      ],
+      "public": true,
+      "date_published": "2021-07-02T11:49:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3a/d2/3ad26ca5f2eafb57b913adc65794fa14"
+    },
+    {
+      "build_id": "52457610422885084",
+      "product_id": "1244373161",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-7 Update 5",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2019-07-17T10:17:52+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8e/2a/8e2aeb406d4c2a2187fa9dca04a22035"
+    },
+    {
+      "build_id": "51501248821712478",
+      "product_id": "1244373161",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-6 Update 4",
+      "tags": [
+        "csb_10_3_1_o_23"
+      ],
+      "public": true,
+      "date_published": "2018-08-21T13:07:28+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ef/ff/efffc4d4011d00766483160e784e24f4"
+    }
+  ],
+  "has_private_branches": true
+}

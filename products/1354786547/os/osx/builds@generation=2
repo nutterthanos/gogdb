@@ -1,0 +1,82 @@
+{
+  "total_count": 10,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56371755917226025",
+      "product_id": "1354786547",
+      "os": "osx",
+      "branch": null,
+      "version_name": "26.03.2023",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_o_7"
+      ],
+      "public": true,
+      "date_published": "2023-03-28T13:14:18+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/72/63/726308316b7addc130283be6316c0d41"
+    },
+    {
+      "build_id": "56145706845642643",
+      "product_id": "1354786547",
+      "os": "osx",
+      "branch": null,
+      "version_name": "13.10.2022",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_o_7"
+      ],
+      "public": true,
+      "date_published": "2023-01-09T13:54:36+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b0/46/b04659682e243eb17a1914c902937418"
+    },
+    {
+      "build_id": "53918752460293530",
+      "product_id": "1354786547",
+      "os": "osx",
+      "branch": null,
+      "version_name": "11.14.2020",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_147"
+      ],
+      "public": true,
+      "date_published": "2020-12-02T10:14:15+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ba/7e/ba7e83b1d7a8310c4a0a5691eb934b3c"
+    },
+    {
+      "build_id": "52889935473761107",
+      "product_id": "1354786547",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.13x (Overlay Support)",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2019-12-13T13:15:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/61/4b/614b9533c937f69a821faaa8b579894f"
+    },
+    {
+      "build_id": "52837588610285335",
+      "product_id": "1354786547",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.13x",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-11-25T11:55:22+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/69/f6/69f6ef4e833c738df530869cba6d0786"
+    }
+  ],
+  "has_private_branches": true
+}

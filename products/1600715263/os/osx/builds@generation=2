@@ -1,0 +1,82 @@
+{
+  "total_count": 32,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56349086895994501",
+      "product_id": "1600715263",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v08g-r18208",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-03-20T17:37:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/39/f6/39f68d1a0562023dda546a2a8c78f152"
+    },
+    {
+      "build_id": "56317193462572680",
+      "product_id": "1600715263",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v08g-r18137",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-03-09T17:33:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b0/97/b097799f964c62914e4a0b91f6bbfba7"
+    },
+    {
+      "build_id": "55009767764233142",
+      "product_id": "1600715263",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v07g-r13648",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-13T18:11:52+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fb/90/fb90bbc62dc07982ca40f74cb36495bf"
+    },
+    {
+      "build_id": "55009640746947725",
+      "product_id": "1600715263",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v07g-r13060",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-13T17:16:38+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/21/b4/21b4d1922b01af18c55af7b786e102c4"
+    },
+    {
+      "build_id": "55003964053499080",
+      "product_id": "1600715263",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v07g-r13060-morebadsdl",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-11T18:09:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/22/1d/221d46d0e075dc73b5e53227ff9b3435"
+    }
+  ],
+  "has_private_branches": true
+}

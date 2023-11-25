@@ -1,0 +1,21 @@
+{
+  "total_count": 2,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "53818465401575578",
+      "product_id": "1326849971",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Patch #4 (GOG)",
+      "tags": [
+        "csb_10_6_1_o_141"
+      ],
+      "public": true,
+      "date_published": "2020-10-28T20:07:02+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ff/4b/ff4b0fd118c5b9588db43dc4d388704e"
+    }
+  ],
+  "has_private_branches": true
+}

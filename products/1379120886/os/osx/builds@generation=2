@@ -1,0 +1,21 @@
+{
+  "total_count": 17,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "55316821586848121",
+      "product_id": "1379120886",
+      "os": "osx",
+      "branch": null,
+      "version_name": "mac 15.0.1-2022.3.29.17:52 (release/15.x.6fc45c5f73)",
+      "tags": [
+        "csb_10_6_1_o_147"
+      ],
+      "public": true,
+      "date_published": "2022-03-29T16:02:51+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e6/a6/e6a63e6e617a9861bf23d641df66b603"
+    }
+  ],
+  "has_private_branches": true
+}

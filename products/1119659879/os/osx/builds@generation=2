@@ -1,0 +1,43 @@
+{
+  "total_count": 6,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "49190768583009601",
+      "product_id": "1119659879",
+      "os": "osx",
+      "branch": null,
+      "version_name": "14-06-2016",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-06-15T14:49:21+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4f/6b/4f6ba64a0f532d2a8e8ce153287f0349"
+    },
+    {
+      "build_id": "49167534917933105",
+      "product_id": "1119659879",
+      "os": "osx",
+      "branch": null,
+      "version_name": "06-06-2016",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-06-07T14:13:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fc/c3/fcc3fa695b04d36b921f993fd2f6a1f4"
+    },
+    {
+      "build_id": "49130318087616363",
+      "product_id": "1119659879",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-1",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-25T17:43:18+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7e/d8/7ed88efd75f1ade52610c10c18b35332"
+    }
+  ],
+  "has_private_branches": true
+}

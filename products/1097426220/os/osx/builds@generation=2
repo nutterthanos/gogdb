@@ -1,0 +1,142 @@
+{
+  "total_count": 500,
+  "count": 9,
+  "items": [
+    {
+      "build_id": "57071390342574374",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": "Public Test Realm",
+      "version_name": "0.90.0_d6cc01d94a_757",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-11-24T21:07:03+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3a/46/3a46194127b51859358bd154b5f52b46"
+    },
+    {
+      "build_id": "57030479072915503",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": "Public Test Realm",
+      "version_name": "0.89.7_ee30217092_628",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-11-10T18:26:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b2/b5/b2b5fb61479490c6d90c09b4464c3779"
+    },
+    {
+      "build_id": "57024221320331557",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": "Public Test Realm",
+      "version_name": "0.89.6_50a97c9f0c_606",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-11-08T14:37:56+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ed/e1/ede1015df742265d779bb70e6110ddfb"
+    },
+    {
+      "build_id": "57009380681527226",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": "Public Test Realm",
+      "version_name": "0.89.5_035120fa50_566",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-11-03T11:46:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e4/f8/e4f88a8b024a1a3df383cfe245cb4f6a"
+    },
+    {
+      "build_id": "57007576336216015",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": "Public Test Realm",
+      "version_name": "0.89.4_a26c0ffaf9_562",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-11-02T20:50:14+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/48/a7/48a731f082f7c392e72a59a9202bb5f9"
+    },
+    {
+      "build_id": "57030479072915503",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": null,
+      "version_name": "0.89.7_ee30217092_628",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-11-10T18:26:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b2/b5/b2b5fb61479490c6d90c09b4464c3779"
+    },
+    {
+      "build_id": "56984332526536731",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": null,
+      "version_name": "0.88.5_b04f63dfee_487",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-10-25T20:25:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a3/9a/a39a8850ba5aede06486208c2dfe3b0b"
+    },
+    {
+      "build_id": "56957579103670854",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": null,
+      "version_name": "0.88.4_97b1fb6f9a_392",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-10-16T14:56:15+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0a/8d/0a8d4d4f5963e3fd575c9f86c39a65a5"
+    },
+    {
+      "build_id": "56937143401641284",
+      "product_id": "1097426220",
+      "os": "osx",
+      "branch": null,
+      "version_name": "0.88.3_4d9972a65b_349",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-10-09T13:45:38+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0c/61/0c61aee96a202cfc96919e4bab9ab89d"
+    }
+  ],
+  "has_private_branches": true
+}

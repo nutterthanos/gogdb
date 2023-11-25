@@ -1,0 +1,22 @@
+{
+  "total_count": 5,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "56116514402982042",
+      "product_id": "1448870901",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Catizens_0.20.r67_Mac",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2022-12-30T12:15:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9b/a8/9ba84c55cbe8cd7a4a5540d1d4c6aae0"
+    }
+  ],
+  "has_private_branches": true
+}

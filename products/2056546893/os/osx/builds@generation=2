@@ -1,0 +1,62 @@
+{
+  "total_count": 8,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "51836904398296389",
+      "product_id": "2056546893",
+      "os": "osx",
+      "branch": null,
+      "version_name": "blueberry",
+      "tags": [
+        "editor_v_1_3_3",
+        "csb_10_5_2_w_92"
+      ],
+      "public": true,
+      "date_published": "2018-12-17T15:40:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f9/11/f91132e8e0daba8ed1ed4d17c8b575c3"
+    },
+    {
+      "build_id": "49744341362818556",
+      "product_id": "2056546893",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-3",
+      "tags": [
+        "csb_1_0_9_o_106"
+      ],
+      "public": true,
+      "date_published": "2016-12-23T13:30:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ec/7e/ec7e8d1fe421532cc8b0752d25cd4802"
+    },
+    {
+      "build_id": "49633983395565084",
+      "product_id": "2056546893",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-2",
+      "tags": [
+        "csb_1_0_7_o_340"
+      ],
+      "public": true,
+      "date_published": "2016-11-15T11:08:12+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a7/d8/a7d81cea5c9086805cca84b0e3db9c85"
+    },
+    {
+      "build_id": "49535318400361744",
+      "product_id": "2056546893",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-1",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-10-12T11:32:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/03/79/0379eae07907b369cc2a4f67fb3bd279"
+    }
+  ],
+  "has_private_branches": true
+}

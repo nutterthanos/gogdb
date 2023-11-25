@@ -1,0 +1,65 @@
+{
+  "total_count": 8,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "55015076476841008",
+      "product_id": "1207665283",
+      "os": "osx",
+      "branch": null,
+      "version_name": "5.6.13",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-12-15T14:08:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/34/d1/34d116abb1355061b9e5886347563130"
+    },
+    {
+      "build_id": "54000536454108477",
+      "product_id": "1207665283",
+      "os": "osx",
+      "branch": null,
+      "version_name": "4.2.33",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2020-12-30T15:17:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d4/a2/d4a25a2e46cb3a9833c9e8ab9cda4b55"
+    },
+    {
+      "build_id": "53570958448425837",
+      "product_id": "1207665283",
+      "os": "osx",
+      "branch": null,
+      "version_name": "4.2.15",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2020-08-04T11:03:46+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2b/0c/2b0c124d1044f919dfbf1c47a6afbf54"
+    },
+    {
+      "build_id": "13241",
+      "product_id": "1207665283",
+      "os": "osx",
+      "branch": null,
+      "version_name": "",
+      "tags": [],
+      "public": true,
+      "date_published": "2014-11-29T07:58:07+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1207665283/osx/23619487/repository.json",
+      "legacy_build_id": 23619487
+    }
+  ],
+  "has_private_branches": true
+}

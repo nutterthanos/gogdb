@@ -1,0 +1,84 @@
+{
+  "total_count": 42,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56875966291454127",
+      "product_id": "1763268053",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.1.31",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-09-18T11:19:53+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3c/1f/3c1ff808187d2a674bc0ec32824ec1ca"
+    },
+    {
+      "build_id": "56856137150984656",
+      "product_id": "1763268053",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.1.2",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-09-11T15:09:28+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ca/17/ca178de05fd40d34a149e4b7cdc8bcd2"
+    },
+    {
+      "build_id": "56377562696847420",
+      "product_id": "1763268053",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0.92",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-03-30T13:19:01+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b1/37/b137be01ec98b7237c910b73ff0ac2fd"
+    },
+    {
+      "build_id": "56310606695708687",
+      "product_id": "1763268053",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0.9",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-03-07T11:01:47+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/94/25/9425af38a459f3dc3a1373e9e40fd53d"
+    },
+    {
+      "build_id": "56209096233988533",
+      "product_id": "1763268053",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0.85",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-01-31T10:40:57+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3a/72/3a7257acff7a897bdd707b9870742097"
+    }
+  ],
+  "has_private_branches": true
+}

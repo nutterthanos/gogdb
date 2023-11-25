@@ -1,0 +1,21 @@
+{
+  "total_count": 2,
+  "count": 1,
+  "items": [
+    {
+      "build_id": "50630901398118257",
+      "product_id": "1995239510",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.4.1",
+      "tags": [
+        "csb_10_2_1_o_200"
+      ],
+      "public": true,
+      "date_published": "2017-10-25T08:01:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a0/60/a0600e3af41b1c08578261bdd6aaf2ee"
+    }
+  ],
+  "has_private_branches": true
+}

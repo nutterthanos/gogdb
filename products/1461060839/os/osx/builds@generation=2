@@ -1,0 +1,35 @@
+{
+  "total_count": 5,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "51031446677351500",
+      "product_id": "1461060839",
+      "os": "osx",
+      "branch": null,
+      "version_name": "21-12-2017",
+      "tags": [
+        "csb_10_3_0_o_1"
+      ],
+      "public": true,
+      "date_published": "2018-03-12T11:57:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4e/b7/4eb75cfb970155bcd7dd3cb834eb9c1c"
+    },
+    {
+      "build_id": "50005105975298696",
+      "product_id": "1461060839",
+      "os": "osx",
+      "branch": null,
+      "version_name": "964-Ansel (A)",
+      "tags": [
+        "csb_1_0_9_o_118"
+      ],
+      "public": true,
+      "date_published": "2017-03-23T13:01:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4c/75/4c752aeeb1a1c7a1014c586ab1db5d67"
+    }
+  ],
+  "has_private_branches": true
+}

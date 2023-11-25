@@ -1,0 +1,61 @@
+{
+  "total_count": 8,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "52938993018154747",
+      "product_id": "1207659174",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.01 (ScummVM 2.1)",
+      "tags": [
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2019-12-30T11:27:19+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/45/c2/45c2b581c7ff6c43a86c0772f779849a"
+    },
+    {
+      "build_id": "52501456250255881",
+      "product_id": "1207659174",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.01",
+      "tags": [
+        "csb_10_6_1_o_130"
+      ],
+      "public": true,
+      "date_published": "2019-08-01T13:16:32+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2b/b7/2bb7160a72cce9221da1d1d6533c0854"
+    },
+    {
+      "build_id": "48541184676663669",
+      "product_id": "1207659174",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-11-04T12:27:14+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1207659174/osx/51638373/repository.json",
+      "legacy_build_id": 51638373
+    },
+    {
+      "build_id": "6041",
+      "product_id": "1207659174",
+      "os": "osx",
+      "branch": null,
+      "version_name": "",
+      "tags": [],
+      "public": true,
+      "date_published": "2014-11-29T07:00:38+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1207659174/osx/23616038/repository.json",
+      "legacy_build_id": 23616038
+    }
+  ],
+  "has_private_branches": true
+}

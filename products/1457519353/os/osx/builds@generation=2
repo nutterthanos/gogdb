@@ -1,0 +1,71 @@
+{
+  "total_count": 11,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "52049532428113359",
+      "product_id": "1457519353",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.7.1",
+      "tags": [
+        "csb_10_5_2_o_90"
+      ],
+      "public": true,
+      "date_published": "2019-02-26T16:03:08+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/15/bc/15bc88aefc48fd311c792e51100c39e6"
+    },
+    {
+      "build_id": "50553147223821351",
+      "product_id": "1457519353",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.6.0f31",
+      "tags": [
+        "csb_10_2_0_o_187"
+      ],
+      "public": true,
+      "date_published": "2017-09-28T12:20:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b0/70/b0709079d0c379219cac37a755224603"
+    },
+    {
+      "build_id": "49489182762581803",
+      "product_id": "1457519353",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.2.2",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-09-26T13:06:10+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ff/a5/ffa5d3dbd639e8e8278097102d0f8f77"
+    },
+    {
+      "build_id": "49439506612433715",
+      "product_id": "1457519353",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.2.0f28",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-09-09T09:59:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8d/09/8d09877e413d6ee066c7a8937186cbba"
+    },
+    {
+      "build_id": "49147312491578287",
+      "product_id": "1457519353",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2.1.0",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-31T14:35:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e1/0b/e10b3e29368529a0bb12db5efd530455"
+    }
+  ],
+  "has_private_branches": true
+}

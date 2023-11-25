@@ -1,0 +1,70 @@
+{
+  "total_count": 14,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "50750227809049928",
+      "product_id": "1435582019",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.08 (hotfix) (a)",
+      "tags": [
+        "csb_10_2_1_o_200"
+      ],
+      "public": true,
+      "date_published": "2017-12-12T11:00:27+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f1/25/f125626d7898b801b617b05c9361b5d9"
+    },
+    {
+      "build_id": "49193174357628859",
+      "product_id": "1435582019",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.08 (hotfix)",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-06-16T12:23:07+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/33/f0/33f094b9e167d24fdca3766bb687f240"
+    },
+    {
+      "build_id": "49135415139909620",
+      "product_id": "1435582019",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.08",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-05-27T11:46:45+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/99/8b/998b401fbc1c52512d70b4699349987f"
+    },
+    {
+      "build_id": "48906205176465926",
+      "product_id": "1435582019",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-12",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-03-09T10:18:07+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a3/2a/a32a8ee55ca794b76745918aecb57c71"
+    },
+    {
+      "build_id": "48729423487230353",
+      "product_id": "1435582019",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.07b",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-01-08T10:46:28+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1435582019/osx/58554631/repository.json",
+      "legacy_build_id": 58554631
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,77 @@
+{
+  "total_count": 60,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "52674962453291229",
+      "product_id": "1513949567",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.3.5.36554",
+      "tags": [
+        "csb_10_6_1_w_130"
+      ],
+      "public": true,
+      "date_published": "2019-09-30T10:02:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a2/9a/a29aa1b60d99888054afa6addaafa1e1"
+    },
+    {
+      "build_id": "52237616914004777",
+      "product_id": "1513949567",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.3.4.36508",
+      "tags": [
+        "csb_10_6_0_w_111"
+      ],
+      "public": true,
+      "date_published": "2019-05-02T14:37:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b3/a1/b3a1f860f89aa4ef199b64775de4270d"
+    },
+    {
+      "build_id": "51771161971449074",
+      "product_id": "1513949567",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.3.3.36382",
+      "tags": [
+        "csb_10_5_2_w_79"
+      ],
+      "public": true,
+      "date_published": "2018-11-22T16:18:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/94/ef/94ef20afa5930c68215d081a1425202d"
+    },
+    {
+      "build_id": "51761863339072387",
+      "product_id": "1513949567",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.3.3.36369",
+      "tags": [
+        "csb_10_5_2_w_67"
+      ],
+      "public": true,
+      "date_published": "2018-11-19T11:20:26+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/2d/21/2d2153d38424502df7c71355889405ce"
+    },
+    {
+      "build_id": "51462918432483007",
+      "product_id": "1513949567",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.3.2.36168",
+      "tags": [
+        "csb_10_3_1_w_23"
+      ],
+      "public": true,
+      "date_published": "2018-08-08T08:14:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/50/22/50226dabd42af63dc12be99e4760f489"
+    }
+  ],
+  "has_private_branches": true
+}

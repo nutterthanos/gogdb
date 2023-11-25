@@ -1,0 +1,59 @@
+{
+  "total_count": 6,
+  "count": 4,
+  "items": [
+    {
+      "build_id": "50750614236005299",
+      "product_id": "1458053826",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Back From Hell (a)",
+      "tags": [
+        "csb_10_2_1_o_200"
+      ],
+      "public": true,
+      "date_published": "2017-12-06T14:34:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/91/ca/91ca05e5b1f8f66284c64a88e0872ed0"
+    },
+    {
+      "build_id": "49376270817722128",
+      "product_id": "1458053826",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Back From Hell",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-08-18T13:40:04+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e2/37/e237f5d5a53f0ca77f7b6c11cbf59d39"
+    },
+    {
+      "build_id": "48952790501535489",
+      "product_id": "1458053826",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0.5927.27778",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-03-25T11:54:04+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1458053826/osx/65273033/repository.json",
+      "legacy_build_id": 65273033
+    },
+    {
+      "build_id": "48950478064974328",
+      "product_id": "1458053826",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0.5927.4289",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-03-24T16:45:28+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1458053826/osx/65192335/repository.json",
+      "legacy_build_id": 65192335
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,73 @@
+{
+  "total_count": 12,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "50750253134820732",
+      "product_id": "1436885138",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6.1 (a)",
+      "tags": [
+        "csb_10_2_1_o_200"
+      ],
+      "public": true,
+      "date_published": "2017-12-12T10:59:34+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4c/09/4c091a4fe0a92d9cee267f585f6e221e"
+    },
+    {
+      "build_id": "49976329275883623",
+      "product_id": "1436885138",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6.1.31",
+      "tags": [
+        "csb_1_0_9_o_106"
+      ],
+      "public": true,
+      "date_published": "2017-03-13T13:50:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a0/6b/a06b0fdbfcfa7ca109d6fcb1e0147a77"
+    },
+    {
+      "build_id": "49399020636478186",
+      "product_id": "1436885138",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6.1",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-08-26T09:59:35+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/11/4f/114faf55306825a314e69ef40744667f"
+    },
+    {
+      "build_id": "48582583834206781",
+      "product_id": "1436885138",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.5.2.5",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-11-18T19:10:25+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1436885138/osx/54223537/repository.json",
+      "legacy_build_id": 54223537
+    },
+    {
+      "build_id": "48524005413117663",
+      "product_id": "1436885138",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.5.2.4",
+      "tags": [],
+      "public": true,
+      "date_published": "2015-10-29T14:14:12+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1436885138/osx/52404970/repository.json",
+      "legacy_build_id": 52404970
+    }
+  ],
+  "has_private_branches": true
+}

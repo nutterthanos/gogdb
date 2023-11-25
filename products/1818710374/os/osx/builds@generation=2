@@ -1,0 +1,86 @@
+{
+  "total_count": 54,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56723466039467058",
+      "product_id": "1818710374",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.056",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-27T21:07:54+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9a/b2/9ab261fd93674c5521ee0d61fd147319"
+    },
+    {
+      "build_id": "56650363889101213",
+      "product_id": "1818710374",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.055 video fix",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-02T15:56:07+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/24/ea/24eaed513c821a93e185de504a0ec7e3"
+    },
+    {
+      "build_id": "56482814798565881",
+      "product_id": "1818710374",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0553 fix",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-05T20:42:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f3/e3/f3e3214b00a218ecec8e0e1fb4cfaebe"
+    },
+    {
+      "build_id": "56479904644682692",
+      "product_id": "1818710374",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0553",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-05-04T20:49:01+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0a/16/0a16d36263653019fa0880cc7fa77620"
+    },
+    {
+      "build_id": "56143542088374242",
+      "product_id": "1818710374",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0552 Intel",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-01-08T20:45:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a7/04/a704c8213d6a4e0ec279394985b43cfd"
+    }
+  ],
+  "has_private_branches": true
+}

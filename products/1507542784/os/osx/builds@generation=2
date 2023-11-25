@@ -1,0 +1,55 @@
+{
+  "total_count": 8,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "56658992346950613",
+      "product_id": "1507542784",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Fireball Wizard Mac v.1.1.0",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-05T15:09:23+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5c/b1/5cb16e2a3adff49533c561109f9b4ddc"
+    },
+    {
+      "build_id": "56633001456583768",
+      "product_id": "1507542784",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.0.1",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-26T15:56:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/cd/e9/cde9c143a223c28a0daf9aa9cb809b89"
+    },
+    {
+      "build_id": "56597513186832626",
+      "product_id": "1507542784",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Fireball Wizard Mac v.1.0.0",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-14T10:09:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/56/88/5688839fc18a2d1340d7f4d396a97ad1"
+    }
+  ],
+  "has_private_branches": true
+}

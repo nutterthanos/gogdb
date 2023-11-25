@@ -1,0 +1,53 @@
+{
+  "total_count": 6,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "56429422459690496",
+      "product_id": "1718413058",
+      "os": "osx",
+      "branch": null,
+      "version_name": "March 2023 update",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_4_0",
+        "csb_10_6_1_l_158"
+      ],
+      "public": true,
+      "date_published": "2023-04-17T10:42:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/68/7d/687d9f7af1ccb13e6ace175cb2c7af83"
+    },
+    {
+      "build_id": "54178458260366884",
+      "product_id": "1718413058",
+      "os": "osx",
+      "branch": null,
+      "version_name": "03/01/2021",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-03-02T07:42:16+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/44/67/4467929b2d78cd8b6364360e16cc0fe2"
+    },
+    {
+      "build_id": "53917149009133536",
+      "product_id": "1718413058",
+      "os": "osx",
+      "branch": null,
+      "version_name": "12/01/2020",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2020-12-01T21:00:33+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e4/75/e475141ea6a1a3d4d4789fd94b55d077"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,35 @@
+{
+  "total_count": 5,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "50753002425234618",
+      "product_id": "1183022406",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-1 (a)",
+      "tags": [
+        "csb_10_2_1_o_200"
+      ],
+      "public": true,
+      "date_published": "2017-12-12T11:09:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fc/53/fc53bf15e589fae7032f23ee31be248a"
+    },
+    {
+      "build_id": "49619415131971419",
+      "product_id": "1183022406",
+      "os": "osx",
+      "branch": null,
+      "version_name": "gog-1",
+      "tags": [
+        "csb_1_0_7_o_340"
+      ],
+      "public": true,
+      "date_published": "2016-11-10T11:53:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/54/a8/54a87d88ed6d19886c6132942fb0800a"
+    }
+  ],
+  "has_private_branches": true
+}

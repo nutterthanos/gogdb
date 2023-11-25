@@ -1,0 +1,49 @@
+{
+  "total_count": 6,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "51567727041461080",
+      "product_id": "1739650883",
+      "os": "osx",
+      "branch": null,
+      "version_name": "14725.624",
+      "tags": [
+        "csb_10_3_1_o_23"
+      ],
+      "public": true,
+      "date_published": "2018-09-13T11:28:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b7/38/b738c63407cf7cdc5e6e14cc9861c443"
+    },
+    {
+      "build_id": "51507413031622228",
+      "product_id": "1739650883",
+      "os": "osx",
+      "branch": null,
+      "version_name": "14660",
+      "tags": [
+        "csb_10_3_1_o_23"
+      ],
+      "public": true,
+      "date_published": "2018-08-23T16:10:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/54/8c/548c9485805ff57ab16efbd6f33c8288"
+    },
+    {
+      "build_id": "51287221055651413",
+      "product_id": "1739650883",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Patch 2 (Revision 135618)",
+      "tags": [
+        "csb_10_3_1_o_23"
+      ],
+      "public": true,
+      "date_published": "2018-06-08T17:19:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/aa/3a/aa3a790a68511e8577979090c047ed5c"
+    }
+  ],
+  "has_private_branches": true
+}

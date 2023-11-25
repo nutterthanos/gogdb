@@ -1,0 +1,70 @@
+{
+  "total_count": 12,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "50089462946389418",
+      "product_id": "1423221839",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.37 (jingle Cells fix)",
+      "tags": [
+        "csb_1_0_9_o_130"
+      ],
+      "public": true,
+      "date_published": "2017-04-21T13:46:15+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/85/45/854595b9f3474ecf5dac013af56483ee"
+    },
+    {
+      "build_id": "49515328192715908",
+      "product_id": "1423221839",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.349",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-10-05T12:57:17+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dc/bd/dcbd24515c51bf573d5df4cbd6b4cf62"
+    },
+    {
+      "build_id": "49509063123532279",
+      "product_id": "1423221839",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.345c",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-10-03T08:59:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/82/03/82033a3e2c32b7786564e6b657da9a9b"
+    },
+    {
+      "build_id": "49152629609797841",
+      "product_id": "1423221839",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.325",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-06-02T10:36:11+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3b/69/3b6959794b9b7ab3ef62c2bc48667618"
+    },
+    {
+      "build_id": "48842622175651962",
+      "product_id": "1423221839",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.251",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-02-16T11:52:52+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1423221839/osx/61577222/repository.json",
+      "legacy_build_id": 61577222
+    }
+  ],
+  "has_private_branches": true
+}

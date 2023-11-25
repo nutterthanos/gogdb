@@ -1,0 +1,46 @@
+{
+  "total_count": 5,
+  "count": 3,
+  "items": [
+    {
+      "build_id": "50286614745881591",
+      "product_id": "1455701771",
+      "os": "osx",
+      "branch": null,
+      "version_name": "20170511",
+      "tags": [
+        "csb_10_1_0_o_89"
+      ],
+      "public": true,
+      "date_published": "2017-06-28T13:52:44+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/53/26/532662726d65711bf5b5a8a84132e344"
+    },
+    {
+      "build_id": "48984433119176555",
+      "product_id": "1455701771",
+      "os": "osx",
+      "branch": null,
+      "version_name": "20160405",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-04-05T10:30:38+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b1/dd/b1ddf24587a3258df5d3839c925e2db2"
+    },
+    {
+      "build_id": "48950327077470089",
+      "product_id": "1455701771",
+      "os": "osx",
+      "branch": null,
+      "version_name": "Build20160322",
+      "tags": [],
+      "public": true,
+      "date_published": "2016-03-24T15:30:28+0000",
+      "generation": 1,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1455701771/osx/65181003/repository.json",
+      "legacy_build_id": 65181003
+    }
+  ],
+  "has_private_branches": true
+}

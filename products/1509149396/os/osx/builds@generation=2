@@ -1,0 +1,83 @@
+{
+  "total_count": 56,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56612605029690666",
+      "product_id": "1509149396",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v.2.6.3 f7 OSX",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-06-19T15:05:36+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/5f/21/5f2158382a34277ac019942828d1c768"
+    },
+    {
+      "build_id": "55742353846557570",
+      "product_id": "1509149396",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v.2.6.2f OSX Act2 hotfix",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-08-23T10:46:58+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d0/56/d056670b3b25d37d48d713b6c1ebba0b"
+    },
+    {
+      "build_id": "55568311629512874",
+      "product_id": "1509149396",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v.2.6.1 OS X",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-06-24T09:59:25+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dc/67/dc67c6e18706979e0f2ed1c4319a5ba3"
+    },
+    {
+      "build_id": "55224193822418540",
+      "product_id": "1509149396",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v.2.6.0.1 OS X",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2022-02-25T17:14:05+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/41/5f/415f4aac9ead3fe4a3daa16daf18c085"
+    },
+    {
+      "build_id": "55119782216043418",
+      "product_id": "1509149396",
+      "os": "osx",
+      "branch": null,
+      "version_name": "v.2.5.9 OS X",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2022-01-20T16:52:57+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/38/5f/385f40a432e4e4a5752b8938b5e32c79"
+    }
+  ],
+  "has_private_branches": true
+}

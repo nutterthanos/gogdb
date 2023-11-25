@@ -1,0 +1,82 @@
+{
+  "total_count": 25,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "54906578005943504",
+      "product_id": "1150392214",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.8.1 Mac",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-11-08T03:54:31+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/01/eb/01ebe94277db99b32ab1dba7e1f568c1"
+    },
+    {
+      "build_id": "54386322056394997",
+      "product_id": "1150392214",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.7.24 Mac",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-12T17:44:37+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/d3/52/d3529358615c1213e8bd7b90a67689e6"
+    },
+    {
+      "build_id": "54384176910223198",
+      "product_id": "1150392214",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.7.23 Mac",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-12T00:47:20+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6c/22/6c22348e461e93a6e739a6c8b6b3c15d"
+    },
+    {
+      "build_id": "54360013200842209",
+      "product_id": "1150392214",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.7 Mac",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2021-05-03T17:03:52+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fc/11/fc11d489861b32d36ef8a1b6f55ae22f"
+    },
+    {
+      "build_id": "53919863013165580",
+      "product_id": "1150392214",
+      "os": "osx",
+      "branch": null,
+      "version_name": "1.6 Mac",
+      "tags": [
+        "editor_v_1_4_0",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2020-12-02T19:38:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6f/2a/6f2adcc5b9fd358b3797cba84623f119"
+    }
+  ],
+  "has_private_branches": true
+}

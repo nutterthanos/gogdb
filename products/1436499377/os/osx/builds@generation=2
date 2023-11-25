@@ -1,0 +1,38 @@
+{
+  "total_count": 4,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "56722533607113622",
+      "product_id": "1436499377",
+      "os": "osx",
+      "branch": null,
+      "version_name": "3.0.10",
+      "tags": [
+        "receiver_v1",
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-07-27T13:09:50+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0f/db/0fdbc99921956be0b4e005cfa27bd6bd"
+    },
+    {
+      "build_id": "55930681381965663",
+      "product_id": "1436499377",
+      "os": "osx",
+      "branch": null,
+      "version_name": "3.0.5 Translated",
+      "tags": [
+        "editor_v_1_5_0",
+        "csb_10_6_3_w_6"
+      ],
+      "public": true,
+      "date_published": "2022-10-27T09:56:29+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/80/39/80395b4295aa310e68b35d68b1dc5e87"
+    }
+  ],
+  "has_private_branches": true
+}

@@ -1,0 +1,78 @@
+{
+  "total_count": 94,
+  "count": 5,
+  "items": [
+    {
+      "build_id": "56694985319237203",
+      "product_id": "1434554947",
+      "os": "osx",
+      "branch": null,
+      "version_name": "202307181206 (release-53)",
+      "tags": [
+        "receiver_v1",
+        "csb_10_6_1_o_158"
+      ],
+      "public": true,
+      "date_published": "2023-07-21T02:42:44+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7e/3a/7e3a02a0a9622b394d2a459fc3117a33"
+    },
+    {
+      "build_id": "55990359152382509",
+      "product_id": "1434554947",
+      "os": "osx",
+      "branch": null,
+      "version_name": "202211171234 (release-52)",
+      "tags": [
+        "csb_10_6_1_o_158"
+      ],
+      "public": true,
+      "date_published": "2022-12-08T20:39:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/e6/8e/e68e50cc600cceea9d2b06ba06c0f006"
+    },
+    {
+      "build_id": "55762022061732192",
+      "product_id": "1434554947",
+      "os": "osx",
+      "branch": null,
+      "version_name": "202208301722 (release-51)",
+      "tags": [
+        "csb_10_6_1_o_158"
+      ],
+      "public": true,
+      "date_published": "2022-08-30T05:38:54+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b5/01/b50110cebecf556acc3b2e46ee1fb2f6"
+    },
+    {
+      "build_id": "55149494681067851",
+      "product_id": "1434554947",
+      "os": "osx",
+      "branch": null,
+      "version_name": "202201311133 (release-50a)",
+      "tags": [
+        "csb_10_6_1_o_147"
+      ],
+      "public": true,
+      "date_published": "2022-02-04T03:11:52+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3b/91/3b91d5ed4d8c8ffe66ab3bbfed12e970"
+    },
+    {
+      "build_id": "55108780986506190",
+      "product_id": "1434554947",
+      "os": "osx",
+      "branch": null,
+      "version_name": "202201141708 (release-50)",
+      "tags": [
+        "csb_10_6_1_o_147"
+      ],
+      "public": true,
+      "date_published": "2022-01-16T22:28:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ab/d0/abd09a162f6c9586ea780c794fd7f07a"
+    }
+  ],
+  "has_private_branches": true
+}
