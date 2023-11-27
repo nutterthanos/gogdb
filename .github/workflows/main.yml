@@ -35,3 +35,27 @@ jobs:
           git add ./
           git commit -m "Updated DB as of - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push origin ${{ github.ref }}
+
+    - name: Trigger workflow on branch windows_generation_1
+      run: |
+        curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/main.yml/dispatches \
+          -d '{"ref":"windows_generation_1"}'
+
+    - name: Trigger workflow on branch osx_generation_1
+      run: |
+        curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/main.yml/dispatches \
+          -d '{"ref":"osx_generation_1"}'
+
+    - name: Trigger workflow on branch osx_generation_2
+      run: |
+        curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/main.yml/dispatches \
+          -d '{"ref":"osx_generation_2"}'
