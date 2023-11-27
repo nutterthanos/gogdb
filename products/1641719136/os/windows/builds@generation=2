@@ -3,19 +3,20 @@
   "count": 5,
   "items": [
     {
-      "build_id": "56052703772286185",
+      "build_id": "57061900314465239",
       "product_id": "1641719136",
       "os": "windows",
       "branch": null,
-      "version_name": "1.4.4.19",
+      "version_name": "1.4.4.60",
       "tags": [
+        "receiver_v2",
         "editor_v_1_5_0",
-        "csb_10_6_3_w_7"
+        "csb_10_6_6_w_2"
       ],
       "public": true,
-      "date_published": "2022-12-08T12:03:32+0000",
+      "date_published": "2023-11-21T14:38:55+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4d/dc/4ddc968db0f1111d1a79753831a16c11"
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a6/f0/a6f08eb131c4502373bf9bb42d0f6e2d"
     },
     {
       "build_id": "55699284129839513",
