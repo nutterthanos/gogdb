@@ -1,7 +1,22 @@
 {
-  "total_count": 9,
-  "count": 9,
+  "total_count": 11,
+  "count": 10,
   "items": [
+    {
+      "build_id": "57084222613586172",
+      "product_id": "1335689653",
+      "os": "osx",
+      "branch": "beta",
+      "version_name": "2023.12.d.9",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-29T07:22:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/33/0b/330b7ba20dc442476fe31078716e603e"
+    },
     {
       "build_id": "57082996465403377",
       "product_id": "1335689653",
@@ -63,6 +78,21 @@
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/31/c3/31c337c0a9cc19396d215bab79fc1a39"
     },
     {
+      "build_id": "57084222613586172",
+      "product_id": "1335689653",
+      "os": "osx",
+      "branch": null,
+      "version_name": "2023.12.d.9",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-29T07:22:43+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/33/0b/330b7ba20dc442476fe31078716e603e"
+    },
+    {
       "build_id": "57082996465403377",
       "product_id": "1335689653",
       "os": "osx",
@@ -121,21 +151,6 @@
       "date_published": "2023-10-11T13:28:21+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dc/39/dc39041ccd4c8a85bc4f7a6a84e81a8a"
-    },
-    {
-      "build_id": "56939892513117559",
-      "product_id": "1335689653",
-      "os": "osx",
-      "branch": null,
-      "version_name": "2023.10.c.10",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-10-10T12:36:35+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ff/df/ffdfd487ba94e2c3f89b97abfd94ed45"
     }
   ],
   "has_private_branches": false
