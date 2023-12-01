@@ -1,7 +1,23 @@
 {
-  "total_count": 9,
-  "count": 2,
+  "total_count": 10,
+  "count": 3,
   "items": [
+    {
+      "build_id": "57081722937447196",
+      "product_id": "1538541953",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Cigars_2023112801_GOG",
+      "tags": [
+        "receiver_v2",
+        "editor_v_1_5_0",
+        "csb_10_6_6_w_2"
+      ],
+      "public": true,
+      "date_published": "2023-11-28T11:06:13+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b0/e4/b0e4d9c448bfed8beb9289962bd695d2"
+    },
     {
       "build_id": "57044491924327651",
       "product_id": "1538541953",
