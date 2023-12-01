@@ -1,7 +1,22 @@
 {
-  "total_count": 251,
+  "total_count": 252,
   "count": 5,
   "items": [
+    {
+      "build_id": "57091015087406146",
+      "product_id": "1755618887",
+      "os": "windows",
+      "branch": null,
+      "version_name": "InfraSpace_1.27.417",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-12-01T15:35:30+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7b/7f/7b7f0fc16803ffbe0c489b06e32e97a3"
+    },
     {
       "build_id": "57070817527497212",
       "product_id": "1755618887",
@@ -61,21 +76,6 @@
       "date_published": "2023-11-10T19:52:51+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/59/5d/595d494fd8c914e80d7e750930a74896"
-    },
-    {
-      "build_id": "57018605659091950",
-      "product_id": "1755618887",
-      "os": "windows",
-      "branch": null,
-      "version_name": "InfraSpace_1.14.401",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_147"
-      ],
-      "public": true,
-      "date_published": "2023-11-06T16:18:32+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8b/4e/8b4e8c0f315cc90d4c898a44aaac5fbc"
     }
   ],
   "has_private_branches": true
