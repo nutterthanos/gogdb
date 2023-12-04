@@ -3,19 +3,19 @@
   "count": 7,
   "items": [
     {
-      "build_id": "57030999636769278",
+      "build_id": "57098335867034190",
       "product_id": "1207659014",
       "os": "osx",
       "branch": "Beta",
-      "version_name": "2.3.2-86-g5267161a4-osx-full",
+      "version_name": "2.3.2-201-gbc0d09f06-osx-full",
       "tags": [
         "receiver_v2",
         "csb_10_6_3_o_7"
       ],
       "public": true,
-      "date_published": "2023-11-10T22:44:09+0000",
+      "date_published": "2023-12-04T04:10:26+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b6/39/b639f3cd5612f088183d1b78fb9ad216"
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/21/d4/21d433b1a6416bab12aaaee285576a54"
     },
     {
       "build_id": "56812671868626786",
