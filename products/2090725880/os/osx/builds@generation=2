@@ -3,20 +3,20 @@
   "count": 1,
   "items": [
     {
-      "build_id": "56982353143177864",
+      "build_id": "57103076144404668",
       "product_id": "2090725880",
       "os": "osx",
       "branch": null,
-      "version_name": "1.2.23626",
+      "version_name": "1.2.23946",
       "tags": [
         "receiver_v2",
         "editor_v_1_5_0",
         "csb_10_6_6_w_2"
       ],
       "public": true,
-      "date_published": "2023-10-25T04:58:23+0000",
+      "date_published": "2023-12-05T19:28:36+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7a/17/7a17eb3f5f11f5b2f739d8d487b03d2c"
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9b/d7/9bd75f61535fa6478cd7af359fb1e527"
     }
   ],
   "has_private_branches": true
