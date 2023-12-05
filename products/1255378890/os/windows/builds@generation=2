@@ -1,7 +1,22 @@
 {
-  "total_count": 78,
+  "total_count": 79,
   "count": 5,
   "items": [
+    {
+      "build_id": "57047256509687543",
+      "product_id": "1255378890",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Win64_GOG_Shipping_R114632_J48_CronDev_Distribution_Cert_1_6_GOG",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-11-16T13:26:41+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/a6/0a/a60a66340d95c3dd1fcd79ef0929a08a"
+    },
     {
       "build_id": "56956931384592674",
       "product_id": "1255378890",
@@ -61,21 +76,6 @@
       "date_published": "2023-06-16T09:30:35+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b3/08/b30897b4d87b1274ea7e0db314c35110"
-    },
-    {
-      "build_id": "56597444875749290",
-      "product_id": "1255378890",
-      "os": "windows",
-      "branch": null,
-      "version_name": "Win64_Shipping_R95268_GOG_Cert_1_1",
-      "tags": [
-        "receiver_v1",
-        "csb_10_6_3_w_7"
-      ],
-      "public": true,
-      "date_published": "2023-06-14T09:45:24+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/bd/5e/bd5e7526c9431c40a6c5c427dcc2ebd2"
     }
   ],
   "has_private_branches": true
