@@ -1,8 +1,23 @@
 {
-  "total_count": 11,
+  "total_count": 13,
   "count": 10,
   "items": [
     {
+      "build_id": "57093411648243793",
+      "product_id": "1335689653",
+      "os": "osx",
+      "branch": "beta",
+      "version_name": "2023.12.d.11",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-12-05T11:42:40+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/58/b3/58b3149b7c78450f306063763cf0fc73"
+    },
+    {
       "build_id": "57084666473736392",
       "product_id": "1335689653",
       "os": "osx",
@@ -63,19 +78,19 @@
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/43/46/4346bb3d34308e31d7e2f35d325f8b85"
     },
     {
-      "build_id": "57058670887551708",
+      "build_id": "57093411648243793",
       "product_id": "1335689653",
       "os": "osx",
-      "branch": "beta",
-      "version_name": "2023.11.d.3",
+      "branch": null,
+      "version_name": "2023.12.d.11",
       "tags": [
         "receiver_v2",
         "csb_10_6_1_w_158"
       ],
       "public": true,
-      "date_published": "2023-11-20T12:07:27+0000",
+      "date_published": "2023-12-05T11:42:40+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/31/c3/31c337c0a9cc19396d215bab79fc1a39"
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/58/b3/58b3149b7c78450f306063763cf0fc73"
     },
     {
       "build_id": "57084666473736392",
@@ -136,21 +151,6 @@
       "date_published": "2023-11-23T15:40:28+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/43/46/4346bb3d34308e31d7e2f35d325f8b85"
-    },
-    {
-      "build_id": "56942902576461489",
-      "product_id": "1335689653",
-      "os": "osx",
-      "branch": null,
-      "version_name": "2023.10.c.11",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-10-11T13:28:21+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/dc/39/dc39041ccd4c8a85bc4f7a6a84e81a8a"
     }
   ],
   "has_private_branches": false
