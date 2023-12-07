@@ -1,7 +1,22 @@
 {
-  "total_count": 40,
-  "count": 9,
+  "total_count": 42,
+  "count": 10,
   "items": [
+    {
+      "build_id": "57102656309678108",
+      "product_id": "1825685277",
+      "os": "windows",
+      "branch": "Ghostrunner 2 Brutal Edition",
+      "version_name": "40183_17",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_141"
+      ],
+      "public": true,
+      "date_published": "2023-12-05T16:59:45+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/70/0a/700aac8f0b433723625e8abb16b23e95"
+    },
     {
       "build_id": "57044756680982937",
       "product_id": "1825685277",
@@ -63,19 +78,19 @@
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/39/9f/399fd16f96165a77fbb50614fc79ce09"
     },
     {
-      "build_id": "56981045117611414",
+      "build_id": "57102656309678108",
       "product_id": "1825685277",
       "os": "windows",
-      "branch": "Ghostrunner 2 Brutal Edition",
-      "version_name": "39669_8",
+      "branch": null,
+      "version_name": "40183_17",
       "tags": [
         "receiver_v2",
         "csb_10_6_1_w_141"
       ],
       "public": true,
-      "date_published": "2023-10-24T19:33:52+0000",
+      "date_published": "2023-12-05T16:59:45+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9e/c3/9ec3683991be1cc6b5c892adf31cef4c"
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/70/0a/700aac8f0b433723625e8abb16b23e95"
     },
     {
       "build_id": "57044756680982937",
