@@ -3,19 +3,19 @@
   "count": 1,
   "items": [
     {
-      "build_id": "57097034544563500",
+      "build_id": "57107414298184318",
       "product_id": "1946916562",
       "os": "windows",
       "branch": null,
-      "version_name": "dno_0.9.107_r",
+      "version_name": "dno_0.9.108_r",
       "tags": [
         "receiver_v2",
         "csb_10_6_1_w_147"
       ],
       "public": true,
-      "date_published": "2023-12-03T17:55:49+0000",
+      "date_published": "2023-12-07T07:44:09+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8b/1c/8b1c8bb2b99fad538167f845aee15753"
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fa/9c/fa9cdbbb2e36ab7abf8968ca063e1365"
     }
   ],
   "has_private_branches": false
