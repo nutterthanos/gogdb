@@ -3,19 +3,19 @@
   "count": 6,
   "items": [
     {
-      "build_id": "57098335305294798",
+      "build_id": "57111460130468013",
       "product_id": "1207659014",
       "os": "windows",
       "branch": "Beta",
-      "version_name": "2.3.2-201-gbc0d09f06-windows-full",
+      "version_name": "2.3.2-270-g530472c13-windows-full",
       "tags": [
         "receiver_v2",
         "csb_10_6_3_w_7"
       ],
       "public": true,
-      "date_published": "2023-12-04T04:10:07+0000",
+      "date_published": "2023-12-08T16:49:15+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/13/f9/13f9a8225d41486ec493bc3e10c1a549"
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/4d/d2/4dd25b0ef260f953b9870ba591ab5fc5"
     },
     {
       "build_id": "56812652544594346",
