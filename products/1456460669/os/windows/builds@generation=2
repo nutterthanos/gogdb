@@ -1,7 +1,23 @@
 {
-  "total_count": 139,
+  "total_count": 141,
   "count": 5,
   "items": [
+    {
+      "build_id": "57108073104612646",
+      "product_id": "1456460669",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Release - v4.1.1.4145012 - Patch Patch5_Hotfix2 ",
+      "tags": [
+        "receiver_v2",
+        "Release",
+        "csb_10_6_4_w_1"
+      ],
+      "public": true,
+      "date_published": "2023-12-07T14:54:48+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1a/cf/1acf3161868b274ce5557c88682fc0c8"
+    },
     {
       "build_id": "57091309455721586",
       "product_id": "1456460669",
@@ -65,22 +81,6 @@
       "date_published": "2023-11-05T17:24:08+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/48/1e/481e66b8e8edec1b5a4a420946855126"
-    },
-    {
-      "build_id": "57007675660803533",
-      "product_id": "1456460669",
-      "os": "windows",
-      "branch": null,
-      "version_name": "Release - v4.1.1.3905231",
-      "tags": [
-        "receiver_v2",
-        "Release",
-        "csb_10_6_4_w_1"
-      ],
-      "public": true,
-      "date_published": "2023-11-02T21:56:26+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1e/c8/1ec8086cd9dd98760043d75d2f984aca"
     }
   ],
   "has_private_branches": true
