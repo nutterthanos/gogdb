@@ -1,7 +1,22 @@
 {
-  "total_count": 53,
+  "total_count": 55,
   "count": 5,
   "items": [
+    {
+      "build_id": "57123669263563008",
+      "product_id": "1853330157",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.15+511 Orien Marten Hotfix",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_3_w_7"
+      ],
+      "public": true,
+      "date_published": "2023-12-12T23:20:24+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/de/23/de235c81f05a86b8e43af09b5fd73780"
+    },
     {
       "build_id": "56943680403970831",
       "product_id": "1853330157",
@@ -61,21 +76,6 @@
       "date_published": "2023-07-07T16:13:15+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/22/d8/22d85b086ccad7fd7acae05d34c25a63"
-    },
-    {
-      "build_id": "56480811197671736",
-      "product_id": "1853330157",
-      "os": "windows",
-      "branch": null,
-      "version_name": "1.13+477 Niyati",
-      "tags": [
-        "receiver_v1",
-        "csb_10_6_3_w_7"
-      ],
-      "public": true,
-      "date_published": "2023-05-05T04:20:55+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/fe/e0/fee012736ae1fe7221fa217367d80e8b"
     }
   ],
   "has_private_branches": true

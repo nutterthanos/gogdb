@@ -1,7 +1,22 @@
 {
-  "total_count": 236,
+  "total_count": 237,
   "count": 15,
   "items": [
+    {
+      "build_id": "57123789409525569",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": "Experimental",
+      "version_name": "Milestone 2.18",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-12-13T00:43:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f7/b3/f7b3c8a623b810ca7e6b4cb62eb7fb66"
+    },
     {
       "build_id": "57112277956925489",
       "product_id": "1412583633",
@@ -61,21 +76,6 @@
       "date_published": "2023-11-28T09:58:34+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/43/61/4361954dc640dbddac5175eb7c92f979"
-    },
-    {
-      "build_id": "57073461733033282",
-      "product_id": "1412583633",
-      "os": "windows",
-      "branch": "Experimental",
-      "version_name": "Milestone 2.13 RELEASE",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-11-25T14:35:31+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/3a/30/3a30c925c2ca2b477606a529f7b5ecc8"
     },
     {
       "build_id": "57092109009616994",
