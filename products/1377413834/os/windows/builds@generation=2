@@ -1,23 +1,6 @@
 {
   "total_count": 1,
-  "count": 1,
-  "items": [
-    {
-      "build_id": "57125271164520987",
-      "product_id": "1377413834",
-      "os": "windows",
-      "branch": null,
-      "version_name": "1.0.0",
-      "tags": [
-        "receiver_v2",
-        "editor_v_1_5_0",
-        "csb_10_6_6_w_2"
-      ],
-      "public": true,
-      "date_published": "2023-12-13T11:53:32+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/01/24/01241996f16be4966b85b1501e2ebc40"
-    }
-  ],
-  "has_private_branches": false
+  "count": 0,
+  "items": [],
+  "has_private_branches": true
 }
