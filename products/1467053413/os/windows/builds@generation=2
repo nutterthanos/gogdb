@@ -1,5 +1,5 @@
 {
-  "total_count": 1,
+  "total_count": 2,
   "count": 1,
   "items": [
     {
@@ -19,5 +19,5 @@
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b9/ef/b9ef28c211d44ca22d5e883cb38fcc57"
     }
   ],
-  "has_private_branches": false
+  "has_private_branches": true
 }
