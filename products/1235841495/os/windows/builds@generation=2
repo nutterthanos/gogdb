@@ -1,23 +1,23 @@
 {
-  "total_count": 2,
+  "total_count": 1,
   "count": 1,
   "items": [
     {
-      "build_id": "57116643104250640",
+      "build_id": "57129833458440015",
       "product_id": "1235841495",
       "os": "windows",
       "branch": null,
-      "version_name": "Below The Stone Press Build - Alpha 0.2.1",
+      "version_name": "Below The Stone Press Build - Alpha 0.3",
       "tags": [
         "receiver_v2",
         "editor_v_1_5_0",
         "csb_10_6_6_w_2"
       ],
       "public": true,
-      "date_published": "2023-12-10T11:43:59+0000",
+      "date_published": "2023-12-15T00:55:43+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/f1/b7/f1b7126923fdff7f1fc89bbc83312ea4"
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/46/a6/46a6d65cca47a345fbf05f7d22c406b0"
     }
   ],
-  "has_private_branches": true
+  "has_private_branches": false
 }
