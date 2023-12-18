@@ -1,7 +1,22 @@
 {
-  "total_count": 56,
+  "total_count": 57,
   "count": 5,
   "items": [
+    {
+      "build_id": "57125605172372492",
+      "product_id": "1774970049",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.28.00",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_147"
+      ],
+      "public": true,
+      "date_published": "2023-12-13T14:04:39+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/34/08/3408c6f3197794190dfda0742f37a47d"
+    },
     {
       "build_id": "56556906238540020",
       "product_id": "1774970049",
@@ -64,20 +79,6 @@
       "date_published": "2022-09-13T09:36:20+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9d/9c/9d9c38047bc409fe262c613b2f41729e"
-    },
-    {
-      "build_id": "55241411885197690",
-      "product_id": "1774970049",
-      "os": "windows",
-      "branch": null,
-      "version_name": "1.24.01",
-      "tags": [
-        "csb_10_6_1_w_147"
-      ],
-      "public": true,
-      "date_published": "2022-03-03T15:59:04+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/8e/73/8e731c57ac3d6143079fbdfe9b33c4f4"
     }
   ],
   "has_private_branches": true
