@@ -1,7 +1,23 @@
 {
-  "total_count": 32,
+  "total_count": 33,
   "count": 5,
   "items": [
+    {
+      "build_id": "57139899754673140",
+      "product_id": "1556263729",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.4.0",
+      "tags": [
+        "receiver_v2",
+        "kubi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-12-18T13:00:06+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/be/53/be53a84bb683014aefd2ef64bb9a27da"
+    },
     {
       "build_id": "57061506381717246",
       "product_id": "1556263729",
@@ -65,22 +81,6 @@
       "date_published": "2023-10-16T14:25:18+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/0a/c3/0ac392bbb7ed54d66cd4c4306272fd5a"
-    },
-    {
-      "build_id": "56936994138755035",
-      "product_id": "1556263729",
-      "os": "windows",
-      "branch": null,
-      "version_name": "1.2.1",
-      "tags": [
-        "receiver_v2",
-        "kubi",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-10-09T13:36:46+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/6a/92/6a92df48e31371316a27646765b6abe5"
     }
   ],
   "has_private_branches": true
