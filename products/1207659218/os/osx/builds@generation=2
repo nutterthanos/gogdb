@@ -1,5 +1,5 @@
 {
-  "total_count": 1,
+  "total_count": 2,
   "count": 1,
   "items": [
     {
@@ -16,5 +16,5 @@
       "legacy_build_id": 27009371
     }
   ],
-  "has_private_branches": false
+  "has_private_branches": true
 }
