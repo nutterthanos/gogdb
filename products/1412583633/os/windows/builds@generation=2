@@ -1,7 +1,82 @@
 {
-  "total_count": 240,
+  "total_count": 241,
   "count": 15,
   "items": [
+    {
+      "build_id": "57132213023833348",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 2.20 RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-12-19T16:47:20+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/11/35/11354fa2f6059e27d815c5d7426bfbac"
+    },
+    {
+      "build_id": "57126817141551953",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 2.19 RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-12-15T10:22:40+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7e/b5/7eb5f91a0e447f04dc7e1385fcfc49c3"
+    },
+    {
+      "build_id": "57092109009616994",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 2.16 RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-12-02T08:42:36+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/22/25/2225d952ccaa58f94d1fc6528eae553a"
+    },
+    {
+      "build_id": "57088074650203211",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 2.15 RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-12-02T00:51:51+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ee/2d/ee2dfd393ff122977ffe199e2ed817ca"
+    },
+    {
+      "build_id": "57080485152493506",
+      "product_id": "1412583633",
+      "os": "windows",
+      "branch": null,
+      "version_name": "Milestone 2.14 RELEASE",
+      "tags": [
+        "receiver_v2",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-11-28T09:58:34+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/43/61/4361954dc640dbddac5175eb7c92f979"
+    },
     {
       "build_id": "57131989451865153",
       "product_id": "1412583633",
@@ -76,81 +151,6 @@
       "date_published": "2023-12-02T08:42:48+0000",
       "generation": 2,
       "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ab/23/ab233e1203f16c53468bbc519950acc7"
-    },
-    {
-      "build_id": "57126817141551953",
-      "product_id": "1412583633",
-      "os": "windows",
-      "branch": null,
-      "version_name": "Milestone 2.19 RELEASE",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-12-15T10:22:40+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/7e/b5/7eb5f91a0e447f04dc7e1385fcfc49c3"
-    },
-    {
-      "build_id": "57092109009616994",
-      "product_id": "1412583633",
-      "os": "windows",
-      "branch": null,
-      "version_name": "Milestone 2.16 RELEASE",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-12-02T08:42:36+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/22/25/2225d952ccaa58f94d1fc6528eae553a"
-    },
-    {
-      "build_id": "57088074650203211",
-      "product_id": "1412583633",
-      "os": "windows",
-      "branch": null,
-      "version_name": "Milestone 2.15 RELEASE",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-12-02T00:51:51+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ee/2d/ee2dfd393ff122977ffe199e2ed817ca"
-    },
-    {
-      "build_id": "57080485152493506",
-      "product_id": "1412583633",
-      "os": "windows",
-      "branch": null,
-      "version_name": "Milestone 2.14 RELEASE",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-11-28T09:58:34+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/43/61/4361954dc640dbddac5175eb7c92f979"
-    },
-    {
-      "build_id": "56847574197808395",
-      "product_id": "1412583633",
-      "os": "windows",
-      "branch": null,
-      "version_name": "Milestone 1.33b RELEASE",
-      "tags": [
-        "receiver_v2",
-        "csb_10_6_1_w_158"
-      ],
-      "public": true,
-      "date_published": "2023-09-18T12:09:00+0000",
-      "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/88/bf/88bf907e084fc03db3124192e212ed40"
     },
     {
       "build_id": "54946780932980857",
