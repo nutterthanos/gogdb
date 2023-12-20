@@ -1,0 +1,39 @@
+{
+  "total_count": 5,
+  "count": 2,
+  "items": [
+    {
+      "build_id": "56945695656172155",
+      "product_id": "1301609073",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0b",
+      "tags": [
+        "receiver_v2",
+        "Hawi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-10-12T12:58:34+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/35/b9/35b97fae20c71d657e72164d1a8b9c86"
+    },
+    {
+      "build_id": "56734022073251940",
+      "product_id": "1301609073",
+      "os": "windows",
+      "branch": null,
+      "version_name": "1.0a",
+      "tags": [
+        "receiver_v1",
+        "Hawi",
+        "csb_10_6_1_w_158"
+      ],
+      "public": true,
+      "date_published": "2023-07-31T12:16:00+0000",
+      "generation": 2,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/45/8c/458c957180c0a6b2fce0ec72fbca4812"
+    }
+  ],
+  "has_private_branches": true
+}
