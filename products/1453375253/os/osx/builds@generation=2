@@ -14,7 +14,7 @@
       "public": true,
       "date_published": "2022-01-18T23:00:08+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/ce/48/ce48562f3e449d97b1b0356bae8254dc"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/ce/48/ce48562f3e449d97b1b0356bae8254dc"
     },
     {
       "build_id": "55036184346782341",
@@ -28,7 +28,7 @@
       "public": true,
       "date_published": "2021-12-22T20:52:53+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b4/8a/b48a164dddb7e3222e9166c90cf04899"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/b4/8a/b48a164dddb7e3222e9166c90cf04899"
     },
     {
       "build_id": "55033182415774551",
@@ -42,7 +42,7 @@
       "public": true,
       "date_published": "2021-12-21T20:00:47+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/1e/d8/1ed85b0396110e9a0268ef663f4f6d5e"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/1e/d8/1ed85b0396110e9a0268ef663f4f6d5e"
     },
     {
       "build_id": "54993616368453049",
@@ -56,7 +56,7 @@
       "public": true,
       "date_published": "2021-12-08T04:29:45+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b2/dc/b2dc5007be2a79b51e70aa0d4385b9ef"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/b2/dc/b2dc5007be2a79b51e70aa0d4385b9ef"
     },
     {
       "build_id": "54993143208729691",
@@ -70,7 +70,7 @@
       "public": true,
       "date_published": "2021-12-08T00:36:13+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/25/30/253022728a392483d708e1181736e56b"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/25/30/253022728a392483d708e1181736e56b"
     },
     {
       "build_id": "55114717397908234",
@@ -84,7 +84,7 @@
       "public": true,
       "date_published": "2022-01-18T23:00:01+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/bd/04/bd0491d7faa15b9ce3b1042a33cab017"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/bd/04/bd0491d7faa15b9ce3b1042a33cab017"
     },
     {
       "build_id": "55053742216532963",
@@ -98,7 +98,7 @@
       "public": true,
       "date_published": "2021-12-28T22:54:25+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/9c/40/9c40bbcc526ca4bb68c3830b6633b527"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/9c/40/9c40bbcc526ca4bb68c3830b6633b527"
     },
     {
       "build_id": "55036188282865741",
@@ -112,7 +112,7 @@
       "public": true,
       "date_published": "2021-12-22T20:53:32+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/48/96/48961fe3351b701ffc7a70b90ee8b720"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/48/96/48961fe3351b701ffc7a70b90ee8b720"
     },
     {
       "build_id": "55036184346782341",
@@ -126,7 +126,7 @@
       "public": true,
       "date_published": "2021-12-22T20:52:53+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b4/8a/b48a164dddb7e3222e9166c90cf04899"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/b4/8a/b48a164dddb7e3222e9166c90cf04899"
     },
     {
       "build_id": "55033186341818821",
@@ -140,7 +140,7 @@
       "public": true,
       "date_published": "2021-12-21T20:01:02+0000",
       "generation": 2,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/b9/df/b9df20e1f5572607847be1aad7e709d9"
+      "link": "https://gog-cdn.akamaized.net/content-system/v2/meta/b9/df/b9df20e1f5572607847be1aad7e709d9"
     }
   ],
   "has_private_branches": true
