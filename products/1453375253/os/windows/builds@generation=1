@@ -12,7 +12,7 @@
       "public": true,
       "date_published": "2016-03-21T12:01:01+0000",
       "generation": 1,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1453375253/windows/64924992/repository.json",
+      "link": "https://gog-cdn.akamaized.net/content-system/v1/manifests/1453375253/windows/64924992/repository.json",
       "legacy_build_id": 64924992
     },
     {
@@ -25,7 +25,7 @@
       "public": true,
       "date_published": "2016-03-10T11:31:48+0000",
       "generation": 1,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1453375253/windows/63979209/repository.json",
+      "link": "https://gog-cdn.akamaized.net/content-system/v1/manifests/1453375253/windows/63979209/repository.json",
       "legacy_build_id": 63979209
     },
     {
@@ -38,7 +38,7 @@
       "public": true,
       "date_published": "2016-03-03T08:23:50+0000",
       "generation": 1,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1453375253/windows/63361405/repository.json",
+      "link": "https://gog-cdn.akamaized.net/content-system/v1/manifests/1453375253/windows/63361405/repository.json",
       "legacy_build_id": 63361405
     },
     {
@@ -51,7 +51,7 @@
       "public": true,
       "date_published": "2016-02-29T15:35:23+0000",
       "generation": 1,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1453375253/windows/63126412/repository.json",
+      "link": "https://gog-cdn.akamaized.net/content-system/v1/manifests/1453375253/windows/63126412/repository.json",
       "legacy_build_id": 63126412
     },
     {
@@ -64,7 +64,7 @@
       "public": true,
       "date_published": "2016-02-26T15:28:23+0000",
       "generation": 1,
-      "link": "https://gog-cdn-fastly.gog.com/content-system/v1/manifests/1453375253/windows/62867064/repository.json",
+      "link": "https://gog-cdn.akamaized.net/content-system/v1/manifests/1453375253/windows/62867064/repository.json",
       "legacy_build_id": 62867064
     }
   ],
